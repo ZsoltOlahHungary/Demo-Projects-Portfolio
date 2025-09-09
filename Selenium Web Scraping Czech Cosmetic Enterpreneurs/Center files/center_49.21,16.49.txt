@@ -1,0 +1,5607 @@
+<html data-beasties-container="" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+  <meta content="verejne-udaje" name="application-name"/>
+  <title>
+   Finding an Entrepreneur - Search by trade
+  </title>
+  <base href="/verejne-udaje/en/"/>
+  <!--
+<link rel='shortcut icon' type='image/x-icon' href='favicon.ico'>
+-->
+  <link href="gov-design-system-HYGFKG3H.css" media="all" onload="this.media='all'" rel="stylesheet"/>
+  <noscript>
+   <link href="gov-design-system-HYGFKG3H.css" rel="stylesheet"/>
+  </noscript>
+  <style>
+   @font-face{font-family:FontAwesome;src:url("./media/fontawesome-webfont.8b43027f47b20503057d-FMJ3VJ65.eot?v=4.7.0");src:url("./media/fontawesome-webfont.8b43027f47b20503057d-FMJ3VJ65.eot?#iefix&v=4.7.0") format("embedded-opentype"),url("./media/fontawesome-webfont.20fd1704ea223900efa9-5GKVPAEF.woff2?v=4.7.0") format("woff2"),url("./media/fontawesome-webfont.f691f37e57f04c152e23-Z4ARLA73.woff?v=4.7.0") format("woff"),url("./media/fontawesome-webfont.1e59d2330b4c6deb84b3-RJ6LE7IU.ttf?v=4.7.0") format("truetype"),url("./media/fontawesome-webfont.c1e38fd9e0e74ba58f7a-3KIJVIEY.svg?v=4.7.0#fontawesomeregular") format("svg");font-weight:400;font-style:normal}.fa{display:inline-block;font:14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-fw{width:1.2857142857em;text-align:center}.fa-spin{animation:fa-spin 2s linear infinite}@keyframes fa-spin{0%{transform:rotate(0)}to{transform:rotate(359deg)}}.fa-exclamation-triangle:before{content:"\f071"}.fa-circle-o-notch:before{content:"\f1ce"}
+  </style>
+  <link href="font-awesome-YRF3B6JO.css" media="all" onload="this.media='all'" rel="stylesheet"/>
+  <noscript>
+   <link href="font-awesome-YRF3B6JO.css" rel="stylesheet"/>
+  </noscript>
+  <style>
+   @media all{}
+  </style>
+  <link href="roboto-BF3SY273.css" media="all" onload="this.media='all'" rel="stylesheet"/>
+  <noscript>
+   <link href="roboto-BF3SY273.css" rel="stylesheet"/>
+  </noscript>
+  <style>
+   @media all{}
+  </style>
+  <link href="roboto-mono-3YBED6NB.css" media="all" onload="this.media='all'" rel="stylesheet"/>
+  <noscript>
+   <link href="roboto-mono-3YBED6NB.css" rel="stylesheet"/>
+  </noscript>
+  <style>
+   @media all{}
+  </style>
+  <link href="roboto-slab-IVQQH67Q.css" media="all" onload="this.media='all'" rel="stylesheet"/>
+  <noscript>
+   <link href="roboto-slab-IVQQH67Q.css" rel="stylesheet"/>
+  </noscript>
+  <link href="leaflet-styles-2KAD3UYO.css" media="all" onload="this.media='all'" rel="stylesheet"/>
+  <noscript>
+   <link href="leaflet-styles-2KAD3UYO.css" rel="stylesheet"/>
+  </noscript>
+  <style>
+   @media all{body:after{content:"";display:none;visibility:hidden}}@media (max-width: 849px){body:after{content:"mobile"}}@media all{html{box-sizing:border-box;font-family:Roboto,Arial,sans-serif;font-size:14px;font-weight:400;font-style:normal;color:#222;line-height:1.25em;text-align:left}body{background:#f5f5f5}html,body,div,p{margin:0;padding:0}*,:before,:after{box-sizing:inherit;background:none;border:none;font-family:inherit;font-size:inherit;font-weight:inherit;font-style:inherit;color:inherit}.hidden{display:none!important}dialog{z-index:200}.commons div,.commons p{line-height:1.25em;text-align:inherit}.commons a:link,.commons a:visited{color:#26a;text-decoration:underline;cursor:pointer}.commons a:link:hover,.commons a:visited:hover{color:#2229;text-decoration:none}.commons .fa{color:inherit;cursor:inherit}.commons .fa:not(.fa-1x):not(.fa-2x):not(.fa-3x):not(.fa-4x):not(.fa-5x){font-size:1.1111111111em}.commons .prefix.fa{margin-left:-.125em}.commons .prefix.fa{margin-right:.25em}.commons p{overflow:hidden}.commons :focus{outline:1px dotted #999}}@media all{.commons .content:not(.asides) .section dl.compact.tree>div:not(:last-child):after{content:";";margin-right:1ex;font-weight:lighter}}@media all{.commons .content p{margin-top:1rem}.commons .content p{margin-bottom:1rem}.commons .content p:empty{display:none}.commons .content p{line-height:1.5em}}@media (min-width: 1100px){.commons .content:not(.sheet).asides .section.aside~.section.aside+.section:not(.aside){margin-top:1rem}}@media (min-width: 1100px){.commons .content:not(.asides).grid:not(.asides).cards:not(.plain) .card:nth-of-type(4n+1):nth-last-of-type(-n+4),.commons .content:not(.asides).grid:not(.asides) .cards:not(.plain) .card:nth-of-type(4n+1):nth-last-of-type(-n+4),.commons .content:not(.asides) .grid:not(.asides).cards:not(.plain) .card:nth-of-type(4n+1):nth-last-of-type(-n+4),.commons .content:not(.asides) .grid:not(.asides) .cards:not(.plain) .card:nth-of-type(4n+1):nth-last-of-type(-n+4){border-bottom-style:none}.commons .content:not(.asides).grid:not(.asides).cards:not(.plain) .card:nth-of-type(4n+4),.commons .content:not(.asides).grid:not(.asides) .cards:not(.plain) .card:nth-of-type(4n+4),.commons .content:not(.asides) .grid:not(.asides).cards:not(.plain) .card:nth-of-type(4n+4),.commons .content:not(.asides) .grid:not(.asides) .cards:not(.plain) .card:nth-of-type(4n+4){border-right-style:none}}@media all{.commons .box{display:inline-block;padding:0 1.5rem;background:#fff;border:1px dotted rgba(0,0,0,.15);border-radius:.25rem}}@media all{body:not(.failure) .on-failure{display:none}dialog{position:fixed;top:0;display:flex;flex-direction:column;align-items:center;justify-content:center;width:100vw;max-width:unset;height:100vh;max-height:unset;margin:0;padding:0;border:none}dialog{background-color:#ffe9;-webkit-backdrop-filter:contrast(75%);backdrop-filter:contrast(75%)}dialog:not([open]):not(.open){display:none}dialog::backdrop{display:none}dialog>*{background:none;padding:0 1.5rem;max-width:100vw;max-height:100vh;overflow:auto}dialog>*.box{border-top-width:0;border-style:solid;border-radius:1rem}dialog.top{justify-content:flex-start}dialog.top>.box{border-top-left-radius:0;border-top-right-radius:0}}:root{--gov-color-blue:#2362a2;--gov-color-grey-dark:#3b3b3b;--gov-color-white:#ffffff;--gov-color-blue-dark:#254e80;--gov-color-blue-focus:#007bff;--gov-color-blue-light:#3077b7;--gov-color-blue-inactive-1:#91b0d0;--gov-color-blue-inactive-2:#d3dfec;--gov-color-blue-inactive-3:#edf0f2;--gov-color-blue-hover:#e5ebf0;--gov-color-grey-mid:#686868;--gov-color-grey-light:#a8a8a8;--gov-color-grey-inactive:#dddddd;--gov-color-grey-bg:#f5f5f5;--gov-color-yellow:#ecae1a;--gov-color-yellow-dark:#dd9f0c;--gov-color-error:#c52a3a;--gov-color-success:#6fbd2c;--gov-color-grey-dark-rgb:59, 59, 59;--gov-color-white-rgb:255, 255, 255 }@media all{*,:before,:after{letter-spacing:inherit}}@media all{a:link:not(.card).external:not(.prefix):after,a:visited:not(.card).external:not(.prefix):after{content:"\f08e";display:inline-block;font-size:1em;font-family:FontAwesome;font-weight:400;text-decoration:none!important;vertical-align:baseline}a:link:not(.card).external:not(.prefix):after,a:visited:not(.card).external:not(.prefix):after{margin-left:.5em}.commons{font-weight:400;color:var(--gov-color-grey-mid);letter-spacing:.0125em;line-height:1.6}}@media all{.commons:not(.card){letter-spacing:.05em;line-height:1.2}.commons a:link,.commons a:visited{color:var(--gov-color-blue);transition:color .15s ease-in-out}.commons a:link:hover,.commons a:visited:hover{color:var(--gov-color-grey-dark)}}@media (min-width: 1100px){.commons .content:not(.sheet).asides .section.aside~.section.aside+.section:not(.aside){margin-top:-1rem}.commons .content:not(.sheet).asides .section.aside:not(.panel){background:transparent}}
+  </style>
+  <link href="common-styles-TIO6MBYL.css" media="all" onload="this.media='all'" rel="stylesheet"/>
+  <noscript>
+   <link href="common-styles-TIO6MBYL.css" rel="stylesheet"/>
+  </noscript>
+  <style>
+   .container[_ngcontent-ng-c2565116402]{display:inline-flex;flex-flow:column nowrap}.container[_ngcontent-ng-c2565116402]   select[_ngcontent-ng-c2565116402]{width:100%;overflow:hidden;text-overflow:ellipsis}.container[_ngcontent-ng-c2565116402]   .selection[_ngcontent-ng-c2565116402]{display:flex;flex-flow:column nowrap}.container[_ngcontent-ng-c2565116402]   .selection-list[_ngcontent-ng-c2565116402]{position:absolute;z-index:1;display:block;overflow-y:auto;margin-top:calc(2.375rem + 2px);background:#fff;border:1px solid #999;color:inherit}.container[_ngcontent-ng-c2565116402]   .selection-item[_ngcontent-ng-c2565116402]{margin:0;padding:.5rem .75rem;color:#222;cursor:pointer;font-size:.9rem;font-weight:700;text-transform:uppercase;list-style:none}.container[_ngcontent-ng-c2565116402]   .selection-item.selected[_ngcontent-ng-c2565116402]{background-color:Highlight;color:HighlightText}.container[_ngcontent-ng-c2565116402]   .selection-item.invalid[_ngcontent-ng-c2565116402]{color:#e33;opacity:1}
+  </style>
+ </head>
+ <body app-build="2025-06-24T09:26:40.832Z" app-env="prod" app-instance="provoz" app-name="verejne-udaje" app-version="3.5.8" class="" ng="app" ng-version="19.2.14">
+  <header ng="app-header">
+   <div class="designs header">
+    <div class="header-content">
+     <div class="header-holder">
+      <div class="header-left">
+       <a class="header-site" href="https://rzp.gov.cz/portal/en/" title="Licensed Trades Portal">
+        <img class="site-logo" height="0" src="https://rzp.gov.cz/verejne-udaje/en/assets/images/rzp-logo.svg"/>
+        <span class="mobiless">
+         Licensed Trades Portal
+        </span>
+        <span class="mobile">
+        </span>
+       </a>
+      </div>
+      <div class="header-right">
+       <div class="header-item">
+        <div class="header-search">
+         <form autocomplete="off" class="search-inner ng-untouched ng-pristine ng-valid" novalidate="">
+          <div class="search-control">
+           <input id="search-portal-input-q" name="q" placeholder="Search" type="text"/>
+          </div>
+          <button class="primary icon-only" type="submit">
+           <b class="icon search">
+           </b>
+          </button>
+         </form>
+        </div>
+       </div>
+       <!-- -->
+       <div class="header-item header-session">
+        <component ng="app-header-session">
+         <!-- -->
+         <div>
+          <a class="button" role="button" tabindex="0" title="User login to the portal">
+           Log in
+          </a>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <!-- -->
+        </component>
+       </div>
+       <div class="header-fixed-items">
+        <div class="header-item header-hamburger">
+         <button type="button">
+          <span>
+          </span>
+          <span>
+          </span>
+          <div>
+           Menu
+          </div>
+         </button>
+        </div>
+        <div class="header-item header-lang">
+         <select>
+          <option title="Czech" value="cs">
+           CZ
+          </option>
+          <option selected="true" title="English" value="en">
+           EN
+          </option>
+          <!-- -->
+         </select>
+        </div>
+        <!-- -->
+       </div>
+      </div>
+     </div>
+     <hr class="header-line"/>
+     <div class="header-overlay">
+      <nav class="header-nav">
+       <div class="nav-site">
+        <a href="https://rzp.gov.cz/portal/en/" title="Licensed Trades Portal">
+         <img class="site-logo" height="0" src="https://rzp.gov.cz/verejne-udaje/en/assets/images/rzp-logo.svg"/>
+        </a>
+       </div>
+       <div class="nav-holder">
+        <div class="nav-link">
+         <a href="/verejne-udaje/en/" rel="home" routerlinkactive="active" tabindex="0" title="Service homepage">
+          Finding an Entrepreneur
+         </a>
+        </div>
+        <!-- -->
+        <div class="nav-link">
+         <a class="active" href="/verejne-udaje/en/udaje" routerlinkactive="active" tabindex="0" title="Searching for a business subject">
+          Information selection
+          <!-- -->
+         </a>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <!-- -->
+        </div>
+        <!-- -->
+        <div class="nav-link">
+         <a href="/verejne-udaje/en/o-sluzbe" routerlinkactive="active" tabindex="0" title="Service description and usage instructions">
+          About Service
+         </a>
+        </div>
+        <!-- -->
+        <div class="nav-session">
+         <component ng="app-header-session">
+          <!-- -->
+          <div>
+           <a class="button" role="button" tabindex="0" title="User login to the portal">
+            Log in
+           </a>
+          </div>
+          <!-- -->
+          <!-- -->
+          <!-- -->
+          <!-- -->
+         </component>
+        </div>
+       </div>
+      </nav>
+     </div>
+    </div>
+   </div>
+  </header>
+  <router-outlet>
+  </router-outlet>
+  <ng-component>
+   <main class="commons" id="main-panel">
+    <div class="container">
+     <div class="toolbar" id="breadcrumb-toolbar" ng="breadcrumb-toolbar">
+      <dl class="small breadcrumb">
+       <dt>
+        Application path
+       </dt>
+       <dd title="Licensed Trades Portal">
+        <a href="https://rzp.gov.cz/portal/en/" rel="index">
+         <i class="fa fa-fw fa-home prefix">
+         </i>
+         Portal
+        </a>
+        <!-- -->
+        <!-- -->
+       </dd>
+       <!-- -->
+       <dd title="Service homepage">
+        <!-- -->
+        <a href="/verejne-udaje/en/">
+         Finding an Entrepreneur
+        </a>
+        <!-- -->
+       </dd>
+       <!-- -->
+       <!-- -->
+       <dd title="Search by trade">
+        <a>
+         Information selection
+        </a>
+       </dd>
+       <!-- -->
+      </dl>
+     </div>
+     <div class="content grid asides searches">
+      <div class="section aside">
+       <h3>
+        Searching for a business subject
+       </h3>
+       <!-- -->
+      </div>
+      <div class="section">
+       <component ng="vyber-toolbar">
+        <div class="toolbar">
+         <dl class="menu tabs">
+          <dt>
+           Search options
+          </dt>
+          <dd>
+           <a href="/verejne-udaje/en/udaje/vyber-subjektu" routerlink="../vyber-subjektu" title="Search by subject information">
+            Subject information
+           </a>
+          </dd>
+          <dd>
+           <a href="/verejne-udaje/en/udaje/vyber-osoby" routerlink="../vyber-osoby" title="Search by person information">
+            Information on the person
+           </a>
+          </dd>
+          <dd class="active">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti" routerlink="../vyber-zivnosti" title="Search by trade">
+            Trade authorizations
+           </a>
+          </dd>
+         </dl>
+        </div>
+       </component>
+      </div>
+      <div class="section">
+       <component ng="bez-relace">
+        <!-- -->
+       </component>
+       <form autocomplete="off" autofocus="" class="ng-untouched ng-pristine ng-valid ng-submitted" novalidate="">
+        <fieldset>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="form-control">
+          <label for="predmet">
+           Subject of the business
+          </label>
+          <input class="ng-untouched ng-pristine ng-valid" id="predmet" name="predmet" placeholder="Name or code of trade or field" style="min-width: 100%;" type="text"/>
+          <select class="ng-untouched ng-pristine ng-valid" name="kodPredmetu" required="" size="10" style="min-width: 100%;">
+           <option title="R11404" value="R11404">
+            Cosmetic services                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            (R11404)
+           </option>
+           <!-- -->
+          </select>
+          <label for="predmet" invalid="Enter the subject of the business." ng="control-message">
+           <span class="hint">
+           </span>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </label>
+          <label title="Restriction of selection to trades corresponding to the specified name in the subject of business">
+           <input class="ng-untouched ng-pristine ng-valid" name="textPredmetu" type="checkbox"/>
+           <dd>
+            trades by name
+           </dd>
+          </label>
+         </div>
+         <!-- -->
+         <!-- -->
+         <fieldset>
+          <div class="form-control">
+           <label>
+            Address of the registered office, branch plant or site
+           </label>
+           <div class="form-control-group option-group">
+            <!-- -->
+            <label>
+             <input class="ng-untouched ng-pristine ng-valid" name="adresa" type="radio" value="misto"/>
+             <dd>
+              selection of a nearby location
+             </dd>
+            </label>
+            <label>
+             <input class="ng-untouched ng-pristine ng-valid" name="adresa" type="radio" value="udaje"/>
+             <dd>
+              entering the address
+             </dd>
+            </label>
+           </div>
+          </div>
+          <div class="form-control">
+           <input class="ng-untouched ng-pristine ng-valid" name="mistoItem" type="hidden" value=""/>
+           <label for="misto">
+           </label>
+           <div class="form-control-group">
+            <component _nghost-ng-c2565116402="" name="misto" ng="lookup-selection" size="32">
+             <div _ngcontent-ng-c2565116402="" class="container">
+              <select _ngcontent-ng-c2565116402="" class="auto-width" disabled="true" id="misto" style="max-width: 355.2px;" tabindex="0">
+               <option _ngcontent-ng-c2565116402="" value="0">
+                Location on the map
+               </option>
+               <!-- -->
+              </select>
+              <div _ngcontent-ng-c2565116402="" class="selection">
+               <input _ngcontent-ng-c2565116402="" class="flattened" size="100%" style="max-width: 355.2px;" tabindex="-1" type="text"/>
+               <ol _ngcontent-ng-c2565116402="" class="selection-list" hidden="" style="min-width: 355.2px;">
+                <li _ngcontent-ng-c2565116402="" class="selection-item selected message" disabled="true" id="misto0" value="0">
+                 Location on the map
+                </li>
+                <!-- -->
+                <!-- -->
+               </ol>
+              </div>
+             </div>
+             <!-- -->
+            </component>
+            <div>
+             <button class="outline tool" title="Delete the criterium" type="button">
+              <b class="fa fa-fw fa-remove">
+              </b>
+             </button>
+             <button class="outline tool" title="My current location" type="button">
+              <b class="fa fa-fw fa-map-marker">
+              </b>
+             </button>
+             <button class="outline tool" title="Location from the map" type="button">
+              <b class="fa fa-fw fa-map-o">
+              </b>
+             </button>
+            </div>
+           </div>
+           <div class="">
+            <component ng="leaflet-map">
+             <div class="leaflet-map-wrapper">
+              <div class="leaflet-map-container leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" style="position: relative;" tabindex="0">
+               <div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(239px, 179px, 0px);">
+                <div class="leaflet-pane leaflet-tile-pane">
+                 <div class="leaflet-layer" style="z-index: 1; opacity: 1;">
+                  <div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 18; transform: translate3d(0px, 0px, 0px) scale(1);">
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://c.tile.openstreetmap.org/17/71539/44896.png" style="width: 256px; height: 256px; transform: translate3d(-211px, -60px, 0px); opacity: 1;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://b.tile.openstreetmap.org/17/71539/44895.png" style="width: 256px; height: 256px; transform: translate3d(-211px, -316px, 0px); opacity: 1;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://a.tile.openstreetmap.org/17/71538/44895.png" style="width: 256px; height: 256px; transform: translate3d(-467px, -316px, 0px); opacity: 1;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://c.tile.openstreetmap.org/17/71540/44895.png" style="width: 256px; height: 256px; transform: translate3d(45px, -316px, 0px); opacity: 1;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://b.tile.openstreetmap.org/17/71538/44896.png" style="width: 256px; height: 256px; transform: translate3d(-467px, -60px, 0px); opacity: 1;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://a.tile.openstreetmap.org/17/71540/44896.png" style="width: 256px; height: 256px; transform: translate3d(45px, -60px, 0px); opacity: 1;"/>
+                  </div>
+                 </div>
+                </div>
+                <div class="leaflet-pane leaflet-overlay-pane">
+                </div>
+                <div class="leaflet-pane leaflet-shadow-pane">
+                 <img alt="" class="leaflet-marker-shadow leaflet-zoom-animated" src="https://rzp.gov.cz/verejne-udaje/en/assets/leaflet/marker-shadow.png" style="margin-left: -12px; margin-top: -41px; width: 41px; height: 41px; transform: translate3d(0px, 0px, 0px);"/>
+                </div>
+                <div class="leaflet-pane leaflet-marker-pane">
+                 <img alt="Marker" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" role="button" src="https://rzp.gov.cz/verejne-udaje/en/assets/leaflet/marker-icon-2x.png" style="margin-left: -12px; margin-top: -41px; width: 25px; height: 41px; transform: translate3d(0px, 0px, 0px); z-index: 0;" tabindex="0"/>
+                </div>
+                <div class="leaflet-pane leaflet-tooltip-pane">
+                </div>
+                <div class="leaflet-pane leaflet-popup-pane">
+                </div>
+                <div class="leaflet-proxy leaflet-zoom-animated" style="transform: translate3d(1.83142e+07px, 1.14934e+07px, 0px) scale(65536);">
+                </div>
+               </div>
+               <div class="leaflet-control-container">
+                <div class="leaflet-top leaflet-left">
+                 <div class="leaflet-control-zoom leaflet-bar leaflet-control">
+                  <a aria-disabled="false" aria-label="Zoom in" class="leaflet-control-zoom-in" href="#" role="button" title="Zoom in">
+                   <span aria-hidden="true">
+                    +
+                   </span>
+                  </a>
+                  <a aria-disabled="false" aria-label="Zoom out" class="leaflet-control-zoom-out" href="#" role="button" title="Zoom out">
+                   <span aria-hidden="true">
+                    −
+                   </span>
+                  </a>
+                 </div>
+                </div>
+                <div class="leaflet-top leaflet-right">
+                </div>
+                <div class="leaflet-bottom leaflet-left">
+                </div>
+                <div class="leaflet-bottom leaflet-right">
+                 <div class="leaflet-control-attribution leaflet-control">
+                  <a href="https://leafletjs.com" title="A JavaScript library for interactive maps">
+                   <svg aria-hidden="true" class="leaflet-attribution-flag" height="8" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 0h12v4H0z" fill="#4C7BE1">
+                    </path>
+                    <path d="M0 4h12v3H0z" fill="#FFD500">
+                    </path>
+                    <path d="M0 7h12v1H0z" fill="#E0BC00">
+                    </path>
+                   </svg>
+                   Leaflet
+                  </a>
+                  <span aria-hidden="true">
+                   |
+                  </span>
+                  <a href="http://www.openstreetmap.org/copyright">
+                   OpenStreetMap
+                  </a>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </component>
+           </div>
+           <input class="ng-untouched ng-pristine ng-valid" hidden="" name="center" required="" type="text"/>
+           <label for="misto" invalid="Enter a location or select a location from the map." ng="control-message">
+            <span class="hint">
+            </span>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </label>
+          </div>
+          <div class="form-control">
+           <label for="distance">
+            Max. distance from location
+           </label>
+           <div class="form-control-group option-group">
+            <label>
+             <input class="ng-untouched ng-pristine ng-valid" name="distance" type="radio"/>
+             <dd class="nobr">
+              1 km
+             </dd>
+            </label>
+            <label>
+             <input class="ng-untouched ng-pristine ng-valid" name="distance" type="radio"/>
+             <dd class="nobr">
+              5 km
+             </dd>
+            </label>
+            <label>
+             <input class="ng-untouched ng-pristine ng-valid" name="distance" type="radio"/>
+             <dd class="nobr">
+              25 km
+             </dd>
+            </label>
+            <!-- -->
+           </div>
+          </div>
+          <!-- -->
+          <!-- -->
+          <!-- -->
+         </fieldset>
+         <!-- -->
+         <div class="form-button-group">
+          <button class="primary" type="submit">
+           <!-- -->
+           Find subjects
+           <!-- -->
+           <!-- -->
+          </button>
+          <a class="link" tabindex="0">
+           Delete
+          </a>
+         </div>
+        </fieldset>
+       </form>
+      </div>
+      <div class="section" id="list">
+       <component ng="seznam-subjektu">
+        <component ng="aktualni-obsah" title="verejne-udaje.OdpovidajiciSubjektyTitle">
+         <p title="verejne-udaje.OdpovidajiciSubjektyTitle">
+          <a class="tool" tabindex="0" title="Refreshing corresponding content (F5)">
+           Corresponding subjects
+           <output xtitle="">
+            (
+          50
+            <!-- -->
+            )*
+           </output>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </a>
+         </p>
+        </component>
+        <!-- -->
+        <div class="plain cards">
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A9789c086959def21da52b3a44b3061b5bdbc522ebd63291e17feb21d03e2eb551a59" title="Detailed information without history">
+            <h5>
+             Dominika Burešová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Hostislavova 436/22, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.2 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              21126500
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A9789c086959def21da52b3a44b3061b5bdbc522ebd63291e17feb21d03e2eb551a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=21126500" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A88f06d0f568541ce7325ebde514aaeca35cace4be97aefe1af12327e9bce73b11a59" title="Detailed information without history">
+            <h5>
+             Doryna Pilipinets
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Otevřená 310/33, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.2 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              22182217
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A88f06d0f568541ce7325ebde514aaeca35cace4be97aefe1af12327e9bce73b11a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=22182217" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A3a53b991c1089965dc4a7dcabbbd5432947144dd752fe2725c1ec8d86ea0dafa1a59" title="Detailed information without history">
+            <h5>
+             Dana Kašparová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Kohoutovická 866/50, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.4 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Srnčí 969/1, 641 00, Brno - Žebětín
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              06477968
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A3a53b991c1089965dc4a7dcabbbd5432947144dd752fe2725c1ec8d86ea0dafa1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=06477968" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Af90f4ac1d257f40101cd8950a89e8f11fbb6a5781a4ddc9fb1a54e60c9dca30c1a59" title="Detailed information without history">
+            <h5>
+             Věra Sýsová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Klobouček 296/2, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.4 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              41536223
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Af90f4ac1d257f40101cd8950a89e8f11fbb6a5781a4ddc9fb1a54e60c9dca30c1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=41536223" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A317f7b0b407d68bd63acc92c529bdb36ac2ff467bcca45ab08196133bdce43081a59" title="Detailed information without history">
+            <h5>
+             Petra Zemánková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Bartolomějská 846/85, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.4 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              75532948
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A317f7b0b407d68bd63acc92c529bdb36ac2ff467bcca45ab08196133bdce43081a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=75532948" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ac6a7b07d873acc8a511924adb26ea565f4febde80435791fa42c3fa9e0d578c11a59" title="Detailed information without history">
+            <h5>
+             Eva Skryjová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Bartolomějská 878/22, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.5 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              74851411
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ac6a7b07d873acc8a511924adb26ea565f4febde80435791fa42c3fa9e0d578c11a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=74851411" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A2d8d2a5554ccb1382d5a1c9e1220e77b4d99b538d7d7f783d0c9eeb4604927231a59" title="Detailed information without history">
+            <h5>
+             Mgr. Pavla Bastlová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Bartolomějská 845/33, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.7 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              76266524
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A2d8d2a5554ccb1382d5a1c9e1220e77b4d99b538d7d7f783d0c9eeb4604927231a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=76266524" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A5beb9d74ff213f13751739df727c3f83a7772cf10cc7b222eee502247adf71551a59" title="Detailed information without history">
+            <h5>
+             Dana Smílková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Bartolomějská 822/27, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.7 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              88916561
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A5beb9d74ff213f13751739df727c3f83a7772cf10cc7b222eee502247adf71551a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=88916561" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A237f787197db80980fce52c6e6de56776deeeb6ccbcfd6d79f67e36cc66bfe8b1a59" title="Detailed information without history">
+            <h5>
+             Marie Audyová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Kohoutovická 647/101, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.8 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              44077432
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A237f787197db80980fce52c6e6de56776deeeb6ccbcfd6d79f67e36cc66bfe8b1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=44077432" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Aa7523fccf63de3bb473582869b6cc1925e81215f0fd184c37f7bd1072fce1ac61a59" title="Detailed information without history">
+            <h5>
+             Simona Burešová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Křepelčí 1098/10, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.8 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              71839097
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Aa7523fccf63de3bb473582869b6cc1925e81215f0fd184c37f7bd1072fce1ac61a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=71839097" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A2a3b66991a62ebb0b1001d42858c1d71cf6a69e8ca73f62318b46419700796c01a59" title="Detailed information without history">
+            <h5>
+             Ing. Šárka Sobotková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Keřová 729/1, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.8 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              75690721
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A2a3b66991a62ebb0b1001d42858c1d71cf6a69e8ca73f62318b46419700796c01a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=75690721" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Aa61dab59166103aa409795539f521bc12357db88e657eb5d75cf5aef5dd1c70e1a59" title="Detailed information without history">
+            <h5>
+             Pavla Gryčová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Chvalovka 1072/17, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.8 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              88572242
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Aa61dab59166103aa409795539f521bc12357db88e657eb5d75cf5aef5dd1c70e1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=88572242" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ab75e0dcb8dbe15c5ce6ec886a08f5be5f02b7e699d742dffc8d499852b4a53051a59" title="Detailed information without history">
+            <h5>
+             Bohuslava Vozková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Chvalovka 1342/15, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (0.8 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Chudčická 1311/7, 635 00, Brno - Bystrc
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              03087522
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ab75e0dcb8dbe15c5ce6ec886a08f5be5f02b7e699d742dffc8d499852b4a53051a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=03087522" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Aadfd18e4b34abba8d3e8374834841503e305ebadb3857f6e20627de5281efde91a59" title="Detailed information without history">
+            <h5>
+             Pavla Szabová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Chvalovka 1082/19, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.8 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Sevastopolská 348/7, 625 00, Brno - Starý Lískovec
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              75752271
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Aadfd18e4b34abba8d3e8374834841503e305ebadb3857f6e20627de5281efde91a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=75752271" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ab5abe3377c8a43081b65a7e10fb3c46725a1e22ca65f336cf29e493ca2f244821a59" title="Detailed information without history">
+            <h5>
+             Jana Kovářová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Keřová 716/5, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.8 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              72345799
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ab5abe3377c8a43081b65a7e10fb3c46725a1e22ca65f336cf29e493ca2f244821a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=72345799" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A1f6e0c357d8b5400a011c51467bb7f302c72018115d143fe8cdd39bcc526fae31a59" title="Detailed information without history">
+            <h5>
+             Šárka Novotná
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Jalovcová 792/3, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.9 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              48517887
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A1f6e0c357d8b5400a011c51467bb7f302c72018115d143fe8cdd39bcc526fae31a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=48517887" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Afe0d7def8878effe7762e8e468f04e40caf12f299af4304e842e03492bedd69c1a59" title="Detailed information without history">
+            <h5>
+             Andrea Sedláčková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Keřová 706/17, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.9 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              74989138
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Afe0d7def8878effe7762e8e468f04e40caf12f299af4304e842e03492bedd69c1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=74989138" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ac1cc890ea4b0bf0d529490672f960effca5eb6907fae3e9268c174f2de2a8c9c1a59" title="Detailed information without history">
+            <h5>
+             Monika Krčálová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               U hájovny 1054/13, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (0.9 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              88110257
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ac1cc890ea4b0bf0d529490672f960effca5eb6907fae3e9268c174f2de2a8c9c1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=88110257" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A4526caa02bc5b60f78859e09c646e350f7c4fc77261f03c213077e7aab8fa4ab1a59" title="Detailed information without history">
+            <h5>
+             Alena Bergerová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Hvozdecká 1305/5, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Spodní 682/24, 625 00, Brno - Bohunice
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              01257285
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A4526caa02bc5b60f78859e09c646e350f7c4fc77261f03c213077e7aab8fa4ab1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=01257285" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ad1f935dfbb4a3f55c93633fdcb2c4f85cc05d3e4079ffd30943562844ee4b3641a59" title="Detailed information without history">
+            <h5>
+             Ing. Martina Šimáčková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Hvozdecká 1305/1, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              69701105
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ad1f935dfbb4a3f55c93633fdcb2c4f85cc05d3e4079ffd30943562844ee4b3641a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=69701105" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ab12873c0b0f265c65ac61fa15dd4536885fdff771a3853b0789441dc555bda101a59" title="Detailed information without history">
+            <h5>
+             Jolana Ryvolová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Říčanská 1291/11, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Fišerova 1619, 676 02, Moravské Budějovice
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              09643974
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ab12873c0b0f265c65ac61fa15dd4536885fdff771a3853b0789441dc555bda101a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=09643974" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A9f9bbc7285ffecd2540312b080897c26c72baf69661f6f695742f1064a2a425a1a59" title="Detailed information without history">
+            <h5>
+             Adéla Dolníčková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Říčanská 1291/11, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Podolí 29, 592 61, Borač
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              21984263
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A9f9bbc7285ffecd2540312b080897c26c72baf69661f6f695742f1064a2a425a1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=21984263" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A05bc2dc072037b028396c1ec50865949191aa79463840b3433af5eeea292f7b81a59" title="Detailed information without history">
+            <h5>
+             Kateřina Drábková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Listnatá 1059/4, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (1.1 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              88869806
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A05bc2dc072037b028396c1ec50865949191aa79463840b3433af5eeea292f7b81a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=88869806" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A26e2c9799840632a88071b92ba1f6607c4d24c809e7129633e39024d92d7c5191a59" title="Detailed information without history">
+            <h5>
+             Nicole Vorčák
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Listnatá 1034/2, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (1.1 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              06179941
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A26e2c9799840632a88071b92ba1f6607c4d24c809e7129633e39024d92d7c5191a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=06179941" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A06b33bece903747e546c8f15f926c140b500835740e39e6ee18ec7a548f47acd1a59" title="Detailed information without history">
+            <h5>
+             MAGIC WAY, s.r.o.
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <dd>
+              Legal person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Teyschlova 1124/29, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.1 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              17595649
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A06b33bece903747e546c8f15f926c140b500835740e39e6ee18ec7a548f47acd1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=17595649" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A91b8fff408bfdd3b98fb7514345c72403b5e222f097804280d654cdd2011617f1a59" title="Detailed information without history">
+            <h5>
+             Martina Pacalová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Hlinecká 1087/2, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (1.2 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              75757354
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A91b8fff408bfdd3b98fb7514345c72403b5e222f097804280d654cdd2011617f1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=75757354" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A3b511f9a74a63f1e6f25c2475eb87dbf9ca5c6abdf558706cea6a0cde72e26db1a59" title="Detailed information without history">
+            <h5>
+             Mgr. Martin Báňa
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Říčanská 1000/29, 641 00, Brno - Žebětín
+               <span title="Distance from the location">
+                (1.2 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              05525128
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A3b511f9a74a63f1e6f25c2475eb87dbf9ca5c6abdf558706cea6a0cde72e26db1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=05525128" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Af1ff706fa90fc6ae75d3270a71f82a708518450f4a23211aca88a4fb922951411a59" title="Detailed information without history">
+            <h5>
+             Ing. Soňa Štětinová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Teyschlova 1103/18, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.2 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              71945989
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Af1ff706fa90fc6ae75d3270a71f82a708518450f4a23211aca88a4fb922951411a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=71945989" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A21ad27cca9802683204f123efd9f1638af01f38b4b98e6b9b4ae4aa688c9ea1d1a59" title="Detailed information without history">
+            <h5>
+             Miroslava Slámová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Teyschlova 1088/17, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.3 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              04462211
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A21ad27cca9802683204f123efd9f1638af01f38b4b98e6b9b4ae4aa688c9ea1d1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=04462211" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A439eedc2e18d19e70cc5ac9890bd5a7df420b2f378f060361ea91a7945d1a50c1a59" title="Detailed information without history">
+            <h5>
+             Renáta Beránková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Teyschlova 1088/17, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.3 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              63369648
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A439eedc2e18d19e70cc5ac9890bd5a7df420b2f378f060361ea91a7945d1a50c1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=63369648" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ac43e2d8c0ef636178c978743fe0929cac5106c86beca094b0a0ad3b0a028bd4c1a59" title="Detailed information without history">
+            <h5>
+             Eva Krhovská
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Teyschlova 1114/6, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.3 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              03490238
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ac43e2d8c0ef636178c978743fe0929cac5106c86beca094b0a0ad3b0a028bd4c1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=03490238" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A96e9b9afa779243d9cb30c1a043b8c94b7b829f7adc249ffaecd217656788dcf1a59" title="Detailed information without history">
+            <h5>
+             Hana Ivanacová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Teyschlova 1119/3, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.3 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              60420022
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A96e9b9afa779243d9cb30c1a043b8c94b7b829f7adc249ffaecd217656788dcf1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=60420022" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ae6ebfed71b608c5bf0f10f33ca874bd4c69f747143d1b59b9ad6d1b8cfa707dd1a59" title="Detailed information without history">
+            <h5>
+             Lucie Nováková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Rerychova 1074/14, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.3 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              09167625
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ae6ebfed71b608c5bf0f10f33ca874bd4c69f747143d1b59b9ad6d1b8cfa707dd1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=09167625" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ab27f73821537dc67bb64c2a41596498970d8431f21a57dfee1fdfd9dc7d6ab721a59" title="Detailed information without history">
+            <h5>
+             Klára Singerová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Rerychova 1074/14, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.3 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              14038307
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Ab27f73821537dc67bb64c2a41596498970d8431f21a57dfee1fdfd9dc7d6ab721a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=14038307" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Afb6fecd56d4a9f0776912f6589bd01a3213da17a240352bd6e0a5f95b4161cd81a59" title="Detailed information without history">
+            <h5>
+             Alexandra Psotová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Foltýnova 1006/17, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.3 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              68108923
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Afb6fecd56d4a9f0776912f6589bd01a3213da17a240352bd6e0a5f95b4161cd81a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=68108923" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A876e108e32ce3b587b41ef1c2bece6ca57978067aba4f8d2136e73abfb9d5b7e1a59" title="Detailed information without history">
+            <h5>
+             Marie Mrázová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Kuršova 987/14, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.4 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              88231682
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A876e108e32ce3b587b41ef1c2bece6ca57978067aba4f8d2136e73abfb9d5b7e1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=88231682" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A772621f83466cc16483893bb0032202a0dc34a9d3918653862038905463bfcf41a59" title="Detailed information without history">
+            <h5>
+             Kristýna Vlachová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Foltýnova 1003/11, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.4 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              21927979
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A772621f83466cc16483893bb0032202a0dc34a9d3918653862038905463bfcf41a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=21927979" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A2970f0d442640128b89d1ffa14701233278f79f8e4729583ae7d386edcf1ba841a59" title="Detailed information without history">
+            <h5>
+             Lenka Kudličková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Foltýnova 1018/41, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.5 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              67056059
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A2970f0d442640128b89d1ffa14701233278f79f8e4729583ae7d386edcf1ba841a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=67056059" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A7c3c4879dbacf2752c98936969be2bdb22e110826679073de107564f2dc439f91a59" title="Detailed information without history">
+            <h5>
+             Jana Hradilová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Foltýnova 1029/20, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.5 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              75397862
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A7c3c4879dbacf2752c98936969be2bdb22e110826679073de107564f2dc439f91a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=75397862" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A81aaaa38bad559a5c175c5cb28acd721d13f1be2328673ea95b8f2b2c2353af11a59" title="Detailed information without history">
+            <h5>
+             Jana Malinová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Foltýnova 1026/14, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.6 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              04106237
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A81aaaa38bad559a5c175c5cb28acd721d13f1be2328673ea95b8f2b2c2353af11a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=04106237" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Aea0ecd3eb5f935e64eb1ea14d9f48fc015c5e823cfd72b7bfd473c4ee4ce54981a59" title="Detailed information without history">
+            <h5>
+             Ludmila Trnková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Foltýnova 1026/14, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.6 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              67055371
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Aea0ecd3eb5f935e64eb1ea14d9f48fc015c5e823cfd72b7bfd473c4ee4ce54981a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=67055371" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A94d01c34ff7a5fff6bf6eb3fa95eb0f566e59750201c7bdd7d107add86646ded1a59" title="Detailed information without history">
+            <h5>
+             Eva Sládková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Kuršova 978/3, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.6 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              72391294
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A94d01c34ff7a5fff6bf6eb3fa95eb0f566e59750201c7bdd7d107add86646ded1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=72391294" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A07fc06cdc9a9f4bf565455c88e445dca2711fbadfc48c9e489ab7b64f4e25e2c1a59" title="Detailed information without history">
+            <h5>
+             Soňa Lelková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Ečerova 965/2, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.8 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              87785404
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A07fc06cdc9a9f4bf565455c88e445dca2711fbadfc48c9e489ab7b64f4e25e2c1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=87785404" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A823eef89e0673c720083c88bfc761c9e6d64357df0acf918f1d3204e2f3ad2341a59" title="Detailed information without history">
+            <h5>
+             Alena Karkošová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Ečerova 1148/2a, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.8 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Kachlíkova 886/8, 635 00, Brno - Bystrc
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              23095687
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A823eef89e0673c720083c88bfc761c9e6d64357df0acf918f1d3204e2f3ad2341a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=23095687" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A0b7c17a796a4f465f7ea8edd8a9391f07b53c34fe6c6be6ead1c9d285f5658f91a59" title="Detailed information without history">
+            <h5>
+             Tien Nguyen Van
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Ečerova 1148/2a, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.8 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Filipova 776/8, 635 00, Brno - Bystrc
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              27856577
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A0b7c17a796a4f465f7ea8edd8a9391f07b53c34fe6c6be6ead1c9d285f5658f91a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=27856577" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Aea449330946704da799b52ac9adbb4626942ebf1ececd51736e642faf07656fb1a59" title="Detailed information without history">
+            <h5>
+             Petronela Slaničková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <!-- -->
+             <dd>
+              Foreign natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Ečerova 958/9, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.8 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              17181381
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Aea449330946704da799b52ac9adbb4626942ebf1ececd51736e642faf07656fb1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=17181381" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Af30d97be3ab8eaf565eceb847087c79e7586597a452750d801548e841f7378f81a59" title="Detailed information without history">
+            <h5>
+             Monika Polcarová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Ečerova 969/10, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.8 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              19717687
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Af30d97be3ab8eaf565eceb847087c79e7586597a452750d801548e841f7378f81a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=19717687" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A3086ccd2cb71a14d37b2cda84e79e872582a3ea546c459fc910d8bc0efc5f9491a59" title="Detailed information without history">
+            <h5>
+             MUDr. Zuzana Kubíčková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Fleischnerova 939/4, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.9 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Fleischnerova 940/6, 635 00, Brno - Bystrc
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              66516005
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A3086ccd2cb71a14d37b2cda84e79e872582a3ea546c459fc910d8bc0efc5f9491a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=66516005" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A78e669fb4c83a08fc66f5928680182aac878204cd6c33997ac8a1d9de8f409fd1a59" title="Detailed information without history">
+            <h5>
+             Elizabeth Juliette Linhart
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Fleischnerova 942/10, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.9 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              02156059
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=A78e669fb4c83a08fc66f5928680182aac878204cd6c33997ac8a1d9de8f409fd1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=02156059" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Abc4062b51171c7538fb9503f3639d03f3efbbdc31f3eb144ca54cd2684362e3a1a59" title="Detailed information without history">
+            <h5>
+             Blanka Přichystalová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Fleischnerova 943/12, 635 00, Brno - Bystrc
+               <span title="Distance from the location">
+                (1.9 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              664 75, Deblín 79
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              87148528
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.21,16.49;distance=5/subjekt;ssarzp=Abc4062b51171c7538fb9503f3639d03f3efbbdc31f3eb144ca54cd2684362e3a1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=87148528" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <!-- -->
+        </div>
+        <!-- -->
+        <p>
+         *) Multiple records found, the list of displayed subjects is not complete, please specify the required criteria.
+         <!-- -->
+        </p>
+        <!-- -->
+        <!-- -->
+        <!-- -->
+       </component>
+       <!-- -->
+       <!-- -->
+      </div>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+    <!-- -->
+   </main>
+  </ng-component>
+  <!-- -->
+  <footer ng="app-footer">
+   <div class="designs footer">
+    <div class="footer-primary">
+     <div class="footer-content">
+      <div class="footer-group">
+       <h5>
+        Information
+       </h5>
+       <ul class="group-rows">
+        <li>
+         <a class="gov-link gov-link--standalone gov-link--inversed" href="https://rzp.gov.cz/portal/en/o-portalu" title="Portal description and usage instructions">
+          About portal
+         </a>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+        </li>
+        <li>
+         <a class="gov-link gov-link--standalone gov-link--inversed" href="https://rzp.gov.cz/portal/en/o-portalu/pravidla-pristupnosti" title="Accessibility rules">
+          Accessibility rules
+         </a>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+        </li>
+        <li>
+         <a class="gov-link gov-link--standalone gov-link--inversed" href="https://rzp.gov.cz/portal/en/o-portalu/zpracovani-osobnich-udaju" title="Declaration of personal data processing">
+          Personal information processing
+         </a>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+        </li>
+        <li>
+         <a class="gov-link gov-link--standalone gov-link--inversed" href="https://rzp.gov.cz/portal/en/o-portalu/pouzivani-cookies" title="The use of cookies">
+          The use of cookies
+         </a>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+        </li>
+        <!-- -->
+       </ul>
+      </div>
+      <div class="footer-group">
+       <h5>
+        More websites
+       </h5>
+       <ul class="group-rows">
+        <li>
+         <a class="external" href="https://dip.gov.cz/dip/en" target="_blank" title="Overview of selected information obligations arising from currently effective legislation">
+          Database of Information Obligations
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-group">
+       <h5>
+        Do you have a question? Contact us
+       </h5>
+       <ul class="group-rows">
+        <li title="">
+         <a class="link" href="mailto:portal_zp@i.cz?body=verejne-udaje (en) / provoz. 3.5.8 / 19.2.14 / 2025-06-24T09:26:40.832Z%0A" target="none">
+          portal_zp@i.cz
+         </a>
+        </li>
+        <!-- -->
+        <!-- -->
+       </ul>
+      </div>
+      <div class="footer-group">
+       <h5>
+        Social media
+       </h5>
+       <ul class="group-cols">
+        <li>
+         <a href="http://on.fb.me/1npFANf" target="_blank" title="Facebook">
+          <b class="icon facebook">
+          </b>
+          <span class="hidden">
+           Facebook
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="https://twitter.com/mpo_tweetuje" target="_blank" title="Twitter">
+          <b class="icon twitter">
+          </b>
+          <span class="hidden">
+           Twitter
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="https://www.youtube.com/channel/UCwNM5NKJgVBGaaF-dHZq0wQ" target="_blank" title="Youtube">
+          <b class="icon youtube">
+          </b>
+          <span class="hidden">
+           Youtube
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <hr class="footer-line"/>
+      <div class="footer-lower">
+       <div class="footnote">
+        <span title="Developed by ICZ a.s. for the Ministry of Industry and Trade">
+         © 2023 - 2025 Ministry of Industry and Trade
+        </span>
+        <!-- -->
+       </div>
+       <div class="footnote" title="verejne-udaje (en) / provoz. 3.5.8 / 19.2.14 / 2025-06-24T09:26:40.832Z">
+        <label>
+        </label>
+        <span>
+         verejne-udaje (en) / provoz. 3.5.8
+         <span class="viewless">
+          / 19.2.14 / 2025-06-24T09:26:40.832Z
+         </span>
+        </span>
+       </div>
+      </div>
+      <div class="footer-button">
+       <button class="outline icon-only" type="button">
+        <b class="icon up">
+        </b>
+       </button>
+      </div>
+     </div>
+    </div>
+    <div class="footer-secondary">
+     <div class="footer-content">
+      <a href="https://mpo.gov.cz/en/" target="_blank" title="Official website of the Ministry of Industry and Trade">
+       <img class="footer-logo mpo-logo" height="0" src="https://rzp.gov.cz/verejne-udaje/en/assets/images/mpo-logo.svg"/>
+      </a>
+      <a href="https://european-union.europa.eu/index_en" target="_blank" title="Official website of the European Union">
+       <img class="footer-logo eu-logo" height="0" src="https://rzp.gov.cz/verejne-udaje/en/assets/images/eu-logo.svg"/>
+      </a>
+     </div>
+    </div>
+    <iframe hidden="" name="none">
+    </iframe>
+   </div>
+  </footer>
+ </body>
+</html>
