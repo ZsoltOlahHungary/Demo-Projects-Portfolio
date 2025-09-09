@@ -1,0 +1,4272 @@
+<html data-beasties-container="" dir="ltr" lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
+  <meta content="verejne-udaje" name="application-name"/>
+  <title>
+   Finding an Entrepreneur - Search by trade
+  </title>
+  <base href="/verejne-udaje/en/"/>
+  <!--
+<link rel='shortcut icon' type='image/x-icon' href='favicon.ico'>
+-->
+  <link href="gov-design-system-HYGFKG3H.css" media="all" onload="this.media='all'" rel="stylesheet"/>
+  <noscript>
+   <link href="gov-design-system-HYGFKG3H.css" rel="stylesheet"/>
+  </noscript>
+  <style>
+   @font-face{font-family:FontAwesome;src:url("./media/fontawesome-webfont.8b43027f47b20503057d-FMJ3VJ65.eot?v=4.7.0");src:url("./media/fontawesome-webfont.8b43027f47b20503057d-FMJ3VJ65.eot?#iefix&v=4.7.0") format("embedded-opentype"),url("./media/fontawesome-webfont.20fd1704ea223900efa9-5GKVPAEF.woff2?v=4.7.0") format("woff2"),url("./media/fontawesome-webfont.f691f37e57f04c152e23-Z4ARLA73.woff?v=4.7.0") format("woff"),url("./media/fontawesome-webfont.1e59d2330b4c6deb84b3-RJ6LE7IU.ttf?v=4.7.0") format("truetype"),url("./media/fontawesome-webfont.c1e38fd9e0e74ba58f7a-3KIJVIEY.svg?v=4.7.0#fontawesomeregular") format("svg");font-weight:400;font-style:normal}.fa{display:inline-block;font:14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-fw{width:1.2857142857em;text-align:center}.fa-spin{animation:fa-spin 2s linear infinite}@keyframes fa-spin{0%{transform:rotate(0)}to{transform:rotate(359deg)}}.fa-exclamation-triangle:before{content:"\f071"}.fa-circle-o-notch:before{content:"\f1ce"}
+  </style>
+  <link href="font-awesome-YRF3B6JO.css" media="all" onload="this.media='all'" rel="stylesheet"/>
+  <noscript>
+   <link href="font-awesome-YRF3B6JO.css" rel="stylesheet"/>
+  </noscript>
+  <style>
+   @media all{}
+  </style>
+  <link href="roboto-BF3SY273.css" media="all" onload="this.media='all'" rel="stylesheet"/>
+  <noscript>
+   <link href="roboto-BF3SY273.css" rel="stylesheet"/>
+  </noscript>
+  <style>
+   @media all{}
+  </style>
+  <link href="roboto-mono-3YBED6NB.css" media="all" onload="this.media='all'" rel="stylesheet"/>
+  <noscript>
+   <link href="roboto-mono-3YBED6NB.css" rel="stylesheet"/>
+  </noscript>
+  <style>
+   @media all{}
+  </style>
+  <link href="roboto-slab-IVQQH67Q.css" media="all" onload="this.media='all'" rel="stylesheet"/>
+  <noscript>
+   <link href="roboto-slab-IVQQH67Q.css" rel="stylesheet"/>
+  </noscript>
+  <link href="leaflet-styles-2KAD3UYO.css" media="all" onload="this.media='all'" rel="stylesheet"/>
+  <noscript>
+   <link href="leaflet-styles-2KAD3UYO.css" rel="stylesheet"/>
+  </noscript>
+  <style>
+   @media all{body:after{content:"";display:none;visibility:hidden}}@media (max-width: 849px){body:after{content:"mobile"}}@media all{html{box-sizing:border-box;font-family:Roboto,Arial,sans-serif;font-size:14px;font-weight:400;font-style:normal;color:#222;line-height:1.25em;text-align:left}body{background:#f5f5f5}html,body,div,p{margin:0;padding:0}*,:before,:after{box-sizing:inherit;background:none;border:none;font-family:inherit;font-size:inherit;font-weight:inherit;font-style:inherit;color:inherit}.hidden{display:none!important}dialog{z-index:200}.commons div,.commons p{line-height:1.25em;text-align:inherit}.commons a:link,.commons a:visited{color:#26a;text-decoration:underline;cursor:pointer}.commons a:link:hover,.commons a:visited:hover{color:#2229;text-decoration:none}.commons .fa{color:inherit;cursor:inherit}.commons .fa:not(.fa-1x):not(.fa-2x):not(.fa-3x):not(.fa-4x):not(.fa-5x){font-size:1.1111111111em}.commons .prefix.fa{margin-left:-.125em}.commons .prefix.fa{margin-right:.25em}.commons p{overflow:hidden}.commons :focus{outline:1px dotted #999}}@media all{.commons .content:not(.asides) .section dl.compact.tree>div:not(:last-child):after{content:";";margin-right:1ex;font-weight:lighter}}@media all{.commons .content p{margin-top:1rem}.commons .content p{margin-bottom:1rem}.commons .content p:empty{display:none}.commons .content p{line-height:1.5em}}@media (min-width: 1100px){.commons .content:not(.sheet).asides .section.aside~.section.aside+.section:not(.aside){margin-top:1rem}}@media (min-width: 1100px){.commons .content:not(.asides).grid:not(.asides).cards:not(.plain) .card:nth-of-type(4n+1):nth-last-of-type(-n+4),.commons .content:not(.asides).grid:not(.asides) .cards:not(.plain) .card:nth-of-type(4n+1):nth-last-of-type(-n+4),.commons .content:not(.asides) .grid:not(.asides).cards:not(.plain) .card:nth-of-type(4n+1):nth-last-of-type(-n+4),.commons .content:not(.asides) .grid:not(.asides) .cards:not(.plain) .card:nth-of-type(4n+1):nth-last-of-type(-n+4){border-bottom-style:none}.commons .content:not(.asides).grid:not(.asides).cards:not(.plain) .card:nth-of-type(4n+4),.commons .content:not(.asides).grid:not(.asides) .cards:not(.plain) .card:nth-of-type(4n+4),.commons .content:not(.asides) .grid:not(.asides).cards:not(.plain) .card:nth-of-type(4n+4),.commons .content:not(.asides) .grid:not(.asides) .cards:not(.plain) .card:nth-of-type(4n+4){border-right-style:none}}@media all{.commons .box{display:inline-block;padding:0 1.5rem;background:#fff;border:1px dotted rgba(0,0,0,.15);border-radius:.25rem}}@media all{body:not(.failure) .on-failure{display:none}dialog{position:fixed;top:0;display:flex;flex-direction:column;align-items:center;justify-content:center;width:100vw;max-width:unset;height:100vh;max-height:unset;margin:0;padding:0;border:none}dialog{background-color:#ffe9;-webkit-backdrop-filter:contrast(75%);backdrop-filter:contrast(75%)}dialog:not([open]):not(.open){display:none}dialog::backdrop{display:none}dialog>*{background:none;padding:0 1.5rem;max-width:100vw;max-height:100vh;overflow:auto}dialog>*.box{border-top-width:0;border-style:solid;border-radius:1rem}dialog.top{justify-content:flex-start}dialog.top>.box{border-top-left-radius:0;border-top-right-radius:0}}:root{--gov-color-blue:#2362a2;--gov-color-grey-dark:#3b3b3b;--gov-color-white:#ffffff;--gov-color-blue-dark:#254e80;--gov-color-blue-focus:#007bff;--gov-color-blue-light:#3077b7;--gov-color-blue-inactive-1:#91b0d0;--gov-color-blue-inactive-2:#d3dfec;--gov-color-blue-inactive-3:#edf0f2;--gov-color-blue-hover:#e5ebf0;--gov-color-grey-mid:#686868;--gov-color-grey-light:#a8a8a8;--gov-color-grey-inactive:#dddddd;--gov-color-grey-bg:#f5f5f5;--gov-color-yellow:#ecae1a;--gov-color-yellow-dark:#dd9f0c;--gov-color-error:#c52a3a;--gov-color-success:#6fbd2c;--gov-color-grey-dark-rgb:59, 59, 59;--gov-color-white-rgb:255, 255, 255 }@media all{*,:before,:after{letter-spacing:inherit}}@media all{a:link:not(.card).external:not(.prefix):after,a:visited:not(.card).external:not(.prefix):after{content:"\f08e";display:inline-block;font-size:1em;font-family:FontAwesome;font-weight:400;text-decoration:none!important;vertical-align:baseline}a:link:not(.card).external:not(.prefix):after,a:visited:not(.card).external:not(.prefix):after{margin-left:.5em}.commons{font-weight:400;color:var(--gov-color-grey-mid);letter-spacing:.0125em;line-height:1.6}}@media all{.commons:not(.card){letter-spacing:.05em;line-height:1.2}.commons a:link,.commons a:visited{color:var(--gov-color-blue);transition:color .15s ease-in-out}.commons a:link:hover,.commons a:visited:hover{color:var(--gov-color-grey-dark)}}@media (min-width: 1100px){.commons .content:not(.sheet).asides .section.aside~.section.aside+.section:not(.aside){margin-top:-1rem}.commons .content:not(.sheet).asides .section.aside:not(.panel){background:transparent}}
+  </style>
+  <link href="common-styles-TIO6MBYL.css" media="all" onload="this.media='all'" rel="stylesheet"/>
+  <noscript>
+   <link href="common-styles-TIO6MBYL.css" rel="stylesheet"/>
+  </noscript>
+  <style>
+   .container[_ngcontent-ng-c2565116402]{display:inline-flex;flex-flow:column nowrap}.container[_ngcontent-ng-c2565116402]   select[_ngcontent-ng-c2565116402]{width:100%;overflow:hidden;text-overflow:ellipsis}.container[_ngcontent-ng-c2565116402]   .selection[_ngcontent-ng-c2565116402]{display:flex;flex-flow:column nowrap}.container[_ngcontent-ng-c2565116402]   .selection-list[_ngcontent-ng-c2565116402]{position:absolute;z-index:1;display:block;overflow-y:auto;margin-top:calc(2.375rem + 2px);background:#fff;border:1px solid #999;color:inherit}.container[_ngcontent-ng-c2565116402]   .selection-item[_ngcontent-ng-c2565116402]{margin:0;padding:.5rem .75rem;color:#222;cursor:pointer;font-size:.9rem;font-weight:700;text-transform:uppercase;list-style:none}.container[_ngcontent-ng-c2565116402]   .selection-item.selected[_ngcontent-ng-c2565116402]{background-color:Highlight;color:HighlightText}.container[_ngcontent-ng-c2565116402]   .selection-item.invalid[_ngcontent-ng-c2565116402]{color:#e33;opacity:1}
+  </style>
+ </head>
+ <body app-build="2025-06-24T09:26:40.832Z" app-env="prod" app-instance="provoz" app-name="verejne-udaje" app-version="3.5.8" class="" ng="app" ng-version="19.2.14">
+  <header ng="app-header">
+   <div class="designs header">
+    <div class="header-content">
+     <div class="header-holder">
+      <div class="header-left">
+       <a class="header-site" href="https://rzp.gov.cz/portal/en/" title="Licensed Trades Portal">
+        <img class="site-logo" height="0" src="https://rzp.gov.cz/verejne-udaje/en/assets/images/rzp-logo.svg"/>
+        <span class="mobiless">
+         Licensed Trades Portal
+        </span>
+        <span class="mobile">
+        </span>
+       </a>
+      </div>
+      <div class="header-right">
+       <div class="header-item">
+        <div class="header-search">
+         <form autocomplete="off" class="search-inner ng-untouched ng-pristine ng-valid" novalidate="">
+          <div class="search-control">
+           <input id="search-portal-input-q" name="q" placeholder="Search" type="text"/>
+          </div>
+          <button class="primary icon-only" type="submit">
+           <b class="icon search">
+           </b>
+          </button>
+         </form>
+        </div>
+       </div>
+       <!-- -->
+       <div class="header-item header-session">
+        <component ng="app-header-session">
+         <!-- -->
+         <div>
+          <a class="button" role="button" tabindex="0" title="User login to the portal">
+           Log in
+          </a>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <!-- -->
+        </component>
+       </div>
+       <div class="header-fixed-items">
+        <div class="header-item header-hamburger">
+         <button type="button">
+          <span>
+          </span>
+          <span>
+          </span>
+          <div>
+           Menu
+          </div>
+         </button>
+        </div>
+        <div class="header-item header-lang">
+         <select>
+          <option title="Czech" value="cs">
+           CZ
+          </option>
+          <option selected="true" title="English" value="en">
+           EN
+          </option>
+          <!-- -->
+         </select>
+        </div>
+        <!-- -->
+       </div>
+      </div>
+     </div>
+     <hr class="header-line"/>
+     <div class="header-overlay">
+      <nav class="header-nav">
+       <div class="nav-site">
+        <a href="https://rzp.gov.cz/portal/en/" title="Licensed Trades Portal">
+         <img class="site-logo" height="0" src="https://rzp.gov.cz/verejne-udaje/en/assets/images/rzp-logo.svg"/>
+        </a>
+       </div>
+       <div class="nav-holder">
+        <div class="nav-link">
+         <a href="/verejne-udaje/en/" rel="home" routerlinkactive="active" tabindex="0" title="Service homepage">
+          Finding an Entrepreneur
+         </a>
+        </div>
+        <!-- -->
+        <div class="nav-link">
+         <a class="active" href="/verejne-udaje/en/udaje" routerlinkactive="active" tabindex="0" title="Searching for a business subject">
+          Information selection
+          <!-- -->
+         </a>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <!-- -->
+        </div>
+        <!-- -->
+        <div class="nav-link">
+         <a href="/verejne-udaje/en/o-sluzbe" routerlinkactive="active" tabindex="0" title="Service description and usage instructions">
+          About Service
+         </a>
+        </div>
+        <!-- -->
+        <div class="nav-session">
+         <component ng="app-header-session">
+          <!-- -->
+          <div>
+           <a class="button" role="button" tabindex="0" title="User login to the portal">
+            Log in
+           </a>
+          </div>
+          <!-- -->
+          <!-- -->
+          <!-- -->
+          <!-- -->
+         </component>
+        </div>
+       </div>
+      </nav>
+     </div>
+    </div>
+   </div>
+  </header>
+  <router-outlet>
+  </router-outlet>
+  <ng-component>
+   <main class="commons" id="main-panel">
+    <div class="container">
+     <div class="toolbar" id="breadcrumb-toolbar" ng="breadcrumb-toolbar">
+      <dl class="small breadcrumb">
+       <dt>
+        Application path
+       </dt>
+       <dd title="Licensed Trades Portal">
+        <a href="https://rzp.gov.cz/portal/en/" rel="index">
+         <i class="fa fa-fw fa-home prefix">
+         </i>
+         Portal
+        </a>
+        <!-- -->
+        <!-- -->
+       </dd>
+       <!-- -->
+       <dd title="Service homepage">
+        <!-- -->
+        <a href="/verejne-udaje/en/">
+         Finding an Entrepreneur
+        </a>
+        <!-- -->
+       </dd>
+       <!-- -->
+       <!-- -->
+       <dd title="Search by trade">
+        <a>
+         Information selection
+        </a>
+       </dd>
+       <!-- -->
+      </dl>
+     </div>
+     <div class="content grid asides searches">
+      <div class="section aside">
+       <h3>
+        Searching for a business subject
+       </h3>
+       <!-- -->
+      </div>
+      <div class="section">
+       <component ng="vyber-toolbar">
+        <div class="toolbar">
+         <dl class="menu tabs">
+          <dt>
+           Search options
+          </dt>
+          <dd>
+           <a href="/verejne-udaje/en/udaje/vyber-subjektu" routerlink="../vyber-subjektu" title="Search by subject information">
+            Subject information
+           </a>
+          </dd>
+          <dd>
+           <a href="/verejne-udaje/en/udaje/vyber-osoby" routerlink="../vyber-osoby" title="Search by person information">
+            Information on the person
+           </a>
+          </dd>
+          <dd class="active">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti" routerlink="../vyber-zivnosti" title="Search by trade">
+            Trade authorizations
+           </a>
+          </dd>
+         </dl>
+        </div>
+       </component>
+      </div>
+      <div class="section">
+       <component ng="bez-relace">
+        <!-- -->
+       </component>
+       <form autocomplete="off" autofocus="" class="ng-untouched ng-pristine ng-valid ng-submitted" novalidate="">
+        <fieldset>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="form-control">
+          <label for="predmet">
+           Subject of the business
+          </label>
+          <input class="ng-untouched ng-pristine ng-valid" id="predmet" name="predmet" placeholder="Name or code of trade or field" style="min-width: 100%;" type="text"/>
+          <select class="ng-untouched ng-pristine ng-valid" name="kodPredmetu" required="" size="10" style="min-width: 100%;">
+           <option title="R11404" value="R11404">
+            Cosmetic services                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            (R11404)
+           </option>
+           <!-- -->
+          </select>
+          <label for="predmet" invalid="Enter the subject of the business." ng="control-message">
+           <span class="hint">
+           </span>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </label>
+          <label title="Restriction of selection to trades corresponding to the specified name in the subject of business">
+           <input class="ng-untouched ng-pristine ng-valid" name="textPredmetu" type="checkbox"/>
+           <dd>
+            trades by name
+           </dd>
+          </label>
+         </div>
+         <!-- -->
+         <!-- -->
+         <fieldset>
+          <div class="form-control">
+           <label>
+            Address of the registered office, branch plant or site
+           </label>
+           <div class="form-control-group option-group">
+            <!-- -->
+            <label>
+             <input class="ng-untouched ng-pristine ng-valid" name="adresa" type="radio" value="misto"/>
+             <dd>
+              selection of a nearby location
+             </dd>
+            </label>
+            <label>
+             <input class="ng-untouched ng-pristine ng-valid" name="adresa" type="radio" value="udaje"/>
+             <dd>
+              entering the address
+             </dd>
+            </label>
+           </div>
+          </div>
+          <div class="form-control">
+           <input class="ng-untouched ng-pristine ng-valid" name="mistoItem" type="hidden" value=""/>
+           <label for="misto">
+           </label>
+           <div class="form-control-group">
+            <component _nghost-ng-c2565116402="" name="misto" ng="lookup-selection" size="32">
+             <div _ngcontent-ng-c2565116402="" class="container">
+              <select _ngcontent-ng-c2565116402="" class="auto-width" disabled="true" id="misto" style="max-width: 355.2px;" tabindex="0">
+               <option _ngcontent-ng-c2565116402="" value="0">
+                Location on the map
+               </option>
+               <!-- -->
+              </select>
+              <div _ngcontent-ng-c2565116402="" class="selection">
+               <input _ngcontent-ng-c2565116402="" class="flattened" size="100%" style="max-width: 355.2px;" tabindex="-1" type="text"/>
+               <ol _ngcontent-ng-c2565116402="" class="selection-list" hidden="" style="min-width: 355.2px;">
+                <li _ngcontent-ng-c2565116402="" class="selection-item selected message" disabled="true" id="misto0" value="0">
+                 Location on the map
+                </li>
+                <!-- -->
+                <!-- -->
+               </ol>
+              </div>
+             </div>
+             <!-- -->
+            </component>
+            <div>
+             <button class="outline tool" title="Delete the criterium" type="button">
+              <b class="fa fa-fw fa-remove">
+              </b>
+             </button>
+             <button class="outline tool" title="My current location" type="button">
+              <b class="fa fa-fw fa-map-marker">
+              </b>
+             </button>
+             <button class="outline tool" title="Location from the map" type="button">
+              <b class="fa fa-fw fa-map-o">
+              </b>
+             </button>
+            </div>
+           </div>
+           <div class="">
+            <component ng="leaflet-map">
+             <div class="leaflet-map-wrapper">
+              <div class="leaflet-map-container leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" style="position: relative;" tabindex="0">
+               <div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(239px, 179px, 0px);">
+                <div class="leaflet-pane leaflet-tile-pane">
+                 <div class="leaflet-layer" style="z-index: 1; opacity: 1;">
+                  <div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 18; transform: translate3d(0px, 0px, 0px) scale(1);">
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://a.tile.openstreetmap.org/17/71503/44963.png" style="width: 256px; height: 256px; transform: translate3d(-107px, -8px, 0px); opacity: 1;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://c.tile.openstreetmap.org/17/71503/44962.png" style="width: 256px; height: 256px; transform: translate3d(-107px, -264px, 0px); opacity: 1;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://b.tile.openstreetmap.org/17/71502/44962.png" style="width: 256px; height: 256px; transform: translate3d(-363px, -264px, 0px); opacity: 1;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://a.tile.openstreetmap.org/17/71504/44962.png" style="width: 256px; height: 256px; transform: translate3d(149px, -264px, 0px); opacity: 1;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://c.tile.openstreetmap.org/17/71502/44963.png" style="width: 256px; height: 256px; transform: translate3d(-363px, -8px, 0px); opacity: 1;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://b.tile.openstreetmap.org/17/71504/44963.png" style="width: 256px; height: 256px; transform: translate3d(149px, -8px, 0px); opacity: 1;"/>
+                  </div>
+                 </div>
+                </div>
+                <div class="leaflet-pane leaflet-overlay-pane">
+                </div>
+                <div class="leaflet-pane leaflet-shadow-pane">
+                 <img alt="" class="leaflet-marker-shadow leaflet-zoom-animated" src="https://rzp.gov.cz/verejne-udaje/en/assets/leaflet/marker-shadow.png" style="margin-left: -12px; margin-top: -41px; width: 41px; height: 41px; transform: translate3d(0px, 0px, 0px);"/>
+                </div>
+                <div class="leaflet-pane leaflet-marker-pane">
+                 <img alt="Marker" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" role="button" src="https://rzp.gov.cz/verejne-udaje/en/assets/leaflet/marker-icon-2x.png" style="margin-left: -12px; margin-top: -41px; width: 25px; height: 41px; transform: translate3d(0px, 0px, 0px); z-index: 0;" tabindex="0"/>
+                </div>
+                <div class="leaflet-pane leaflet-tooltip-pane">
+                </div>
+                <div class="leaflet-pane leaflet-popup-pane">
+                </div>
+                <div class="leaflet-proxy leaflet-zoom-animated" style="transform: translate3d(1.83049e+07px, 1.15105e+07px, 0px) scale(65536);">
+                </div>
+               </div>
+               <div class="leaflet-control-container">
+                <div class="leaflet-top leaflet-left">
+                 <div class="leaflet-control-zoom leaflet-bar leaflet-control">
+                  <a aria-disabled="false" aria-label="Zoom in" class="leaflet-control-zoom-in" href="#" role="button" title="Zoom in">
+                   <span aria-hidden="true">
+                    +
+                   </span>
+                  </a>
+                  <a aria-disabled="false" aria-label="Zoom out" class="leaflet-control-zoom-out" href="#" role="button" title="Zoom out">
+                   <span aria-hidden="true">
+                    −
+                   </span>
+                  </a>
+                 </div>
+                </div>
+                <div class="leaflet-top leaflet-right">
+                </div>
+                <div class="leaflet-bottom leaflet-left">
+                </div>
+                <div class="leaflet-bottom leaflet-right">
+                 <div class="leaflet-control-attribution leaflet-control">
+                  <a href="https://leafletjs.com" title="A JavaScript library for interactive maps">
+                   <svg aria-hidden="true" class="leaflet-attribution-flag" height="8" viewbox="0 0 12 8" width="12" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M0 0h12v4H0z" fill="#4C7BE1">
+                    </path>
+                    <path d="M0 4h12v3H0z" fill="#FFD500">
+                    </path>
+                    <path d="M0 7h12v1H0z" fill="#E0BC00">
+                    </path>
+                   </svg>
+                   Leaflet
+                  </a>
+                  <span aria-hidden="true">
+                   |
+                  </span>
+                  <a href="http://www.openstreetmap.org/copyright">
+                   OpenStreetMap
+                  </a>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </component>
+           </div>
+           <input class="ng-untouched ng-pristine ng-valid" hidden="" name="center" required="" type="text"/>
+           <label for="misto" invalid="Enter a location or select a location from the map." ng="control-message">
+            <span class="hint">
+            </span>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </label>
+          </div>
+          <div class="form-control">
+           <label for="distance">
+            Max. distance from location
+           </label>
+           <div class="form-control-group option-group">
+            <label>
+             <input class="ng-untouched ng-pristine ng-valid" name="distance" type="radio"/>
+             <dd class="nobr">
+              1 km
+             </dd>
+            </label>
+            <label>
+             <input class="ng-untouched ng-pristine ng-valid" name="distance" type="radio"/>
+             <dd class="nobr">
+              5 km
+             </dd>
+            </label>
+            <label>
+             <input class="ng-untouched ng-pristine ng-valid" name="distance" type="radio"/>
+             <dd class="nobr">
+              25 km
+             </dd>
+            </label>
+            <!-- -->
+           </div>
+          </div>
+          <!-- -->
+          <!-- -->
+          <!-- -->
+         </fieldset>
+         <!-- -->
+         <div class="form-button-group">
+          <button class="primary" type="submit">
+           <!-- -->
+           Find subjects
+           <!-- -->
+           <!-- -->
+          </button>
+          <a class="link" tabindex="0">
+           Delete
+          </a>
+         </div>
+        </fieldset>
+       </form>
+      </div>
+      <div class="section" id="list">
+       <component ng="seznam-subjektu">
+        <component ng="aktualni-obsah" title="verejne-udaje.OdpovidajiciSubjektyTitle">
+         <p title="verejne-udaje.OdpovidajiciSubjektyTitle">
+          <a class="tool" tabindex="0" title="Refreshing corresponding content (F5)">
+           Corresponding subjects
+           <output xtitle="">
+            (36)
+           </output>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </a>
+         </p>
+        </component>
+        <!-- -->
+        <div class="plain cards">
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Ae41650e38cd5a9b50ecb2762b5fd86d3d4cf4b4d0b19f31b8d818bf637ee2ef21a59" title="Detailed information without history">
+            <h5>
+             Dagmar Gašpárková Nešpůrková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Nad Klínkem 1356/83, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.1 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              17850622
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Ae41650e38cd5a9b50ecb2762b5fd86d3d4cf4b4d0b19f31b8d818bf637ee2ef21a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=17850622" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A426f6b97a910926e2db4acf250913aadb9081c8639046403700a7bb00f381f291a59" title="Detailed information without history">
+            <h5>
+             Martina Kabelková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Nad Klínkem 1143/11, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.2 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              22078851
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A426f6b97a910926e2db4acf250913aadb9081c8639046403700a7bb00f381f291a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=22078851" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Acec150258a67d11f4c0332532695573180108889e1aa592a3a49848a04aaf8e71a59" title="Detailed information without history">
+            <h5>
+             JZAV s.r.o.
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <dd>
+              Legal person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Rybářská 1044/40, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.2 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Rybářská 1044/40, 664 91, Ivančice
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              27666735
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Acec150258a67d11f4c0332532695573180108889e1aa592a3a49848a04aaf8e71a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=27666735" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A42b85cda687e7a5eb90f86482f0b279b09e3aa99a108c3b42622fd439b943c871a59" title="Detailed information without history">
+            <h5>
+             Milan Motyčka
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Slunečná 1277/29, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.3 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              74344099
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A42b85cda687e7a5eb90f86482f0b279b09e3aa99a108c3b42622fd439b943c871a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=74344099" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A8d27ad641d0b387e5a69d5adf3d3a09789eeda8a0e16fa7f5caa214c7686ee231a59" title="Detailed information without history">
+            <h5>
+             Jitka Balášová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Tyršova 1081/11, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.3 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Chřestová 1083/15, 664 91, Ivančice
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              06975437
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A8d27ad641d0b387e5a69d5adf3d3a09789eeda8a0e16fa7f5caa214c7686ee231a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=06975437" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A4aa7e64bb869705f0674df569be74aa3d3498dde22a022a0e309371bf99143921a59" title="Detailed information without history">
+            <h5>
+             Helena Urbánková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               664 91, Ivančice č. ev. 142
+               <span title="Distance from the location">
+                (1.4 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              65857143
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A4aa7e64bb869705f0674df569be74aa3d3498dde22a022a0e309371bf99143921a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=65857143" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Ae0759ffe82440eabd633aa94d3e9fb0fc06297306142ccac2d1a8ee9b219f4a61a59" title="Detailed information without history">
+            <h5>
+             Anna Cirhanová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Drůbežní trh 163/15, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.4 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              06961614
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Ae0759ffe82440eabd633aa94d3e9fb0fc06297306142ccac2d1a8ee9b219f4a61a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=06961614" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Ac700e52b931855d8946abae9e3b32fe906a0ff32d769051f73ef26f4059454d11a59" title="Detailed information without history">
+            <h5>
+             Lucie Műller
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               K Lesu 216/26, 664 91, Ivančice - Němčice
+               <span title="Distance from the location">
+                (1.5 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              01283111
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Ac700e52b931855d8946abae9e3b32fe906a0ff32d769051f73ef26f4059454d11a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=01283111" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A29d7fb39e5802c9d6c0fa4d4d454f1bb5bf007aa2403c8cb898536541f4810691a59" title="Detailed information without history">
+            <h5>
+             Hana Urbanová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Palackého náměstí 186/22, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.5 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              46920820
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A29d7fb39e5802c9d6c0fa4d4d454f1bb5bf007aa2403c8cb898536541f4810691a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=46920820" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Aafe51864f1d1acd11dbaecbcb019041902915f083bfcd1c9cc61ed8771a3db7c1a59" title="Detailed information without history">
+            <h5>
+             Hana Kopuletá
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Palackého náměstí 194/10, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.6 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Třešňová 1639/3, 664 91, Ivančice
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              02753502
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Aafe51864f1d1acd11dbaecbcb019041902915f083bfcd1c9cc61ed8771a3db7c1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=02753502" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Acf4a67fbe8a3a511ba919b4c51a9677e9d3e63cb8bca18c49b1a538961c83ba61a59" title="Detailed information without history">
+            <h5>
+             Lucie Hájková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Palackého náměstí 194/10, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.6 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              čtvrť Padělky 407, 664 11, Zbýšov
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              05140749
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Acf4a67fbe8a3a511ba919b4c51a9677e9d3e63cb8bca18c49b1a538961c83ba61a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=05140749" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Ad128f9505fe584d26dcbc056b9b489a892b87bc5d0ae595105b586711f27ace51a59" title="Detailed information without history">
+            <h5>
+             Janka Vildomcová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Ke Karlovu 299/82, 664 91, Ivančice - Němčice
+               <span title="Distance from the location">
+                (1.6 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              04268199
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Ad128f9505fe584d26dcbc056b9b489a892b87bc5d0ae595105b586711f27ace51a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=04268199" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A689aafd831c3757df03ed3c926300013c75d27297128daceddb7fe01d4c831851a59" title="Detailed information without history">
+            <h5>
+             Adéla Vítová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Široká 366/1, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.7 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              čtvrť Sička 430, 664 11, Zbýšov
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              21780633
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A689aafd831c3757df03ed3c926300013c75d27297128daceddb7fe01d4c831851a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=21780633" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A0b9d7d3330ed55b835873ce5d422082afe21c52a32880fb87bebbe45f9e4cbc71a59" title="Detailed information without history">
+            <h5>
+             Soleil studio s.r.o.
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <dd>
+              Legal person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Josefa Vávry 57/10, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.7 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Josefa Vávry 57/10, 664 91, Ivančice
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              03999122
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A0b9d7d3330ed55b835873ce5d422082afe21c52a32880fb87bebbe45f9e4cbc71a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=03999122" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A88c88d6561ba0034e60f147196d166a85e7669aaae4e33fa947886e0d873402d1a59" title="Detailed information without history">
+            <h5>
+             Jana Slepičková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Josefa Vávry 57/10, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.7 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              náměstí 13. prosince 1197/22, 664 12, Oslavany
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              05362261
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A88c88d6561ba0034e60f147196d166a85e7669aaae4e33fa947886e0d873402d1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=05362261" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A832b9f61d2e95a764200fd91549a4ef4b041d8b015503f331f3cd918089438401a59" title="Detailed information without history">
+            <h5>
+             Vendula Hyblová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Josefa Vávry 57/10, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.7 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Hlavní 912/87, 664 12, Oslavany
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              09300007
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A832b9f61d2e95a764200fd91549a4ef4b041d8b015503f331f3cd918089438401a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=09300007" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Af165401204013ba0ddfedf9569c15ac7601156ef632dd79cf4d21dee2b34bb5f1a59" title="Detailed information without history">
+            <h5>
+             Hana Schilbergerová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Josefa Vávry 57/10, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.7 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Růžová 299/44, 664 12, Oslavany
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              17160014
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Af165401204013ba0ddfedf9569c15ac7601156ef632dd79cf4d21dee2b34bb5f1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=17160014" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A5049657ee8f839038447425bd2342c90b771050820312838d9723cf8a670f17f1a59" title="Detailed information without history">
+            <h5>
+             Kristýna Urbanovská
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Josefa Vávry 57/10, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.7 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Havířská 601, 664 84, Zastávka
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              23650630
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A5049657ee8f839038447425bd2342c90b771050820312838d9723cf8a670f17f1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=23650630" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A6cf2a162d77e0446d8473999ba09c2ca1a8c24b3660994d1019bc2627e90cc761a59" title="Detailed information without history">
+            <h5>
+             Iveta Hošková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Josefa Vávry 57/10, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.7 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              68634650
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A6cf2a162d77e0446d8473999ba09c2ca1a8c24b3660994d1019bc2627e90cc761a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=68634650" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A358b72c43ed1d8f13bf826dabbed895d5ba5aedf7f6ff390224c91d9c9cfa0a41a59" title="Detailed information without history">
+            <h5>
+             Lyudmyla Repnikova
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Dr. Novotného 214/30, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.8 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              64419291
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A358b72c43ed1d8f13bf826dabbed895d5ba5aedf7f6ff390224c91d9c9cfa0a41a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=64419291" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A96f48cffe9ecb4b09a15c4c59e2e90f5a52434aeaf8d6016970c2845bbc9ae771a59" title="Detailed information without history">
+            <h5>
+             Eva Šacherová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Dolní Hlinky 1535/17, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.8 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              74663011
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A96f48cffe9ecb4b09a15c4c59e2e90f5a52434aeaf8d6016970c2845bbc9ae771a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=74663011" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A4d164c06a8ab0a2440e394de0e13b127a5e6af4d7a06b9adf18f5cdc0dce36151a59" title="Detailed information without history">
+            <h5>
+             Gabriela Krátká
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Oslavanská 425/7, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.9 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              86935682
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A4d164c06a8ab0a2440e394de0e13b127a5e6af4d7a06b9adf18f5cdc0dce36151a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=86935682" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A12a366635a0afed7e79388dbb84b203882bfd87e27490cc3ea5814e4e5e302ff1a59" title="Detailed information without history">
+            <h5>
+             Sabina Košťálová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Ostřihom 460/31, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.9 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              09973672
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A12a366635a0afed7e79388dbb84b203882bfd87e27490cc3ea5814e4e5e302ff1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=09973672" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Aba41b85ffdb4bf73ccfe3674f54bd2e0025609693d74156ec430a921634d7a4a1a59" title="Detailed information without history">
+            <h5>
+             ADRIANE s.r.o.
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <dd>
+              Legal person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Okružní 930/5, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.9 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Okružní 930/5, 664 91, Ivančice
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              29300363
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Aba41b85ffdb4bf73ccfe3674f54bd2e0025609693d74156ec430a921634d7a4a1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=29300363" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Aae75c434d8df7a38b0d92f84e4e28ab5f9758a107cdccf20ec18e8e8fc70bb311a59" title="Detailed information without history">
+            <h5>
+             Carol Kaniová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Okružní 930/5, 664 91, Ivančice
+               <span title="Distance from the location">
+                (1.9 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              45608075
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Aae75c434d8df7a38b0d92f84e4e28ab5f9758a107cdccf20ec18e8e8fc70bb311a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=45608075" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Abdc69b42eb8b6d54c675a5888b1610713e1c83aa4ad7a77e28213a08e554052a1a59" title="Detailed information without history">
+            <h5>
+             Jana Smištíková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Na Hrázi 136/9, 664 91, Ivančice - Alexovice
+               <span title="Distance from the location">
+                (2 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              49129082
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Abdc69b42eb8b6d54c675a5888b1610713e1c83aa4ad7a77e28213a08e554052a1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=49129082" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A561a1f54765ec7d0511c101ca059c2c712f57e6aaa1c2612f80593db915868741a59" title="Detailed information without history">
+            <h5>
+             Monika Felklová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Lužní 137/18, 664 91, Ivančice - Letkovice
+               <span title="Distance from the location">
+                (2.3 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              62170627
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A561a1f54765ec7d0511c101ca059c2c712f57e6aaa1c2612f80593db915868741a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=62170627" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A989471d9eda618fa6f73293d322adb5856d15f855617a574b7f9e570039868ec1a59" title="Detailed information without history">
+            <h5>
+             Denisa Veselá
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Ořechová 1686/10, 664 91, Ivančice
+               <span title="Distance from the location">
+                (2.3 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              06145272
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A989471d9eda618fa6f73293d322adb5856d15f855617a574b7f9e570039868ec1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=06145272" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A02b33d5649a727f32ef04765d72d36f072f714d06b4925f312501c9d3de7e6c91a59" title="Detailed information without history">
+            <h5>
+             ČESKÁ LÉKÁRNA HOLDING, a.s.
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <dd>
+              Legal person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               664 91, Ivančice č. ev. 1548
+               <span title="Distance from the location">
+                (2.3 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Nové sady 996/25, 602 00, Brno - Staré Brno
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              28511298
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A02b33d5649a727f32ef04765d72d36f072f714d06b4925f312501c9d3de7e6c91a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=28511298" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Af5ccf928cccd052e3005546814caf4da77065e203841d10cd1e21c3a681afdd41a59" title="Detailed information without history">
+            <h5>
+             Lenka Soldán
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               mjr. Nováka 985/24, 664 91, Ivančice
+               <span title="Distance from the location">
+                (2.4 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              64502392
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Af5ccf928cccd052e3005546814caf4da77065e203841d10cd1e21c3a681afdd41a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=64502392" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A82b2c38cf3a36e5c0033d25738d818927cac5ca75a4a52a7a037447eb2d7fd341a59" title="Detailed information without history">
+            <h5>
+             Alena Drozdová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Větrná 1383/4, 664 91, Ivančice
+               <span title="Distance from the location">
+                (2.5 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              17459192
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A82b2c38cf3a36e5c0033d25738d818927cac5ca75a4a52a7a037447eb2d7fd341a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=17459192" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A09b0b678ed796a66fcfdbcaa4d07342d95cb4ef9e79df8e5668615d18b8029931a59" title="Detailed information without history">
+            <h5>
+             Anna Šacherová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Zemědělská 619/2, 664 91, Ivančice
+               <span title="Distance from the location">
+                (2.6 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              Budkovice 42, 664 91, Ivančice
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              74151819
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A09b0b678ed796a66fcfdbcaa4d07342d95cb4ef9e79df8e5668615d18b8029931a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=74151819" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A5bdb552727837da485c0fcb65831d5f4681081c73ca6f29e1fce84633d7bc52c1a59" title="Detailed information without history">
+            <h5>
+             Romana Suchanová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Na Brněnce 857/20, 664 91, Ivančice
+               <span title="Distance from the location">
+                (2.6 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              74849450
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A5bdb552727837da485c0fcb65831d5f4681081c73ca6f29e1fce84633d7bc52c1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=74849450" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Afee9fa57da12c04d524c3e100be0a1514a4b185f7f20210eb02ed01efeba18dd1a59" title="Detailed information without history">
+            <h5>
+             Okna Trenz s.r.o.
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <dd>
+              Legal person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               664 64, Moravské Bránice 337
+               <span title="Distance from the location">
+                (3 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              664 64, Moravské Bránice 337
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              09624406
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Afee9fa57da12c04d524c3e100be0a1514a4b185f7f20210eb02ed01efeba18dd1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=09624406" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A8a3a2f90c787ebb3a91d6ec96c42ac0630e64b248ade39ddc11917e5c6eb5d6e1a59" title="Detailed information without history">
+            <h5>
+             Kamila Trnková
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Budkovice 159, 664 91, Ivančice
+               <span title="Distance from the location">
+                (3.2 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              17229235
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=A8a3a2f90c787ebb3a91d6ec96c42ac0630e64b248ade39ddc11917e5c6eb5d6e1a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=17229235" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Ae245de40995636db66a746e397a97acc4ee6fafd829b905e1c710b54a5a567271a59" title="Detailed information without history">
+            <h5>
+             Tereza Denk
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Registered office
+              </dt>
+              <dd>
+               Budkovice 94, 664 91, Ivančice
+               <span title="Distance from the location">
+                (3.5 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              09928758
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=49.09,16.39;distance=5/subjekt;ssarzp=Ae245de40995636db66a746e397a97acc4ee6fafd829b905e1c710b54a5a567271a59" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=09928758" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <!-- -->
+        </div>
+        <!-- -->
+        <!-- -->
+        <!-- -->
+       </component>
+       <!-- -->
+       <!-- -->
+      </div>
+      <!-- -->
+     </div>
+    </div>
+    <!-- -->
+    <!-- -->
+   </main>
+  </ng-component>
+  <!-- -->
+  <footer ng="app-footer">
+   <div class="designs footer">
+    <div class="footer-primary">
+     <div class="footer-content">
+      <div class="footer-group">
+       <h5>
+        Information
+       </h5>
+       <ul class="group-rows">
+        <li>
+         <a class="gov-link gov-link--standalone gov-link--inversed" href="https://rzp.gov.cz/portal/en/o-portalu" title="Portal description and usage instructions">
+          About portal
+         </a>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+        </li>
+        <li>
+         <a class="gov-link gov-link--standalone gov-link--inversed" href="https://rzp.gov.cz/portal/en/o-portalu/pravidla-pristupnosti" title="Accessibility rules">
+          Accessibility rules
+         </a>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+        </li>
+        <li>
+         <a class="gov-link gov-link--standalone gov-link--inversed" href="https://rzp.gov.cz/portal/en/o-portalu/zpracovani-osobnich-udaju" title="Declaration of personal data processing">
+          Personal information processing
+         </a>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+        </li>
+        <li>
+         <a class="gov-link gov-link--standalone gov-link--inversed" href="https://rzp.gov.cz/portal/en/o-portalu/pouzivani-cookies" title="The use of cookies">
+          The use of cookies
+         </a>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+        </li>
+        <!-- -->
+       </ul>
+      </div>
+      <div class="footer-group">
+       <h5>
+        More websites
+       </h5>
+       <ul class="group-rows">
+        <li>
+         <a class="external" href="https://dip.gov.cz/dip/en" target="_blank" title="Overview of selected information obligations arising from currently effective legislation">
+          Database of Information Obligations
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-group">
+       <h5>
+        Do you have a question? Contact us
+       </h5>
+       <ul class="group-rows">
+        <li title="">
+         <a class="link" href="mailto:portal_zp@i.cz?body=verejne-udaje (en) / provoz. 3.5.8 / 19.2.14 / 2025-06-24T09:26:40.832Z%0A" target="none">
+          portal_zp@i.cz
+         </a>
+        </li>
+        <!-- -->
+        <!-- -->
+       </ul>
+      </div>
+      <div class="footer-group">
+       <h5>
+        Social media
+       </h5>
+       <ul class="group-cols">
+        <li>
+         <a href="http://on.fb.me/1npFANf" target="_blank" title="Facebook">
+          <b class="icon facebook">
+          </b>
+          <span class="hidden">
+           Facebook
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="https://twitter.com/mpo_tweetuje" target="_blank" title="Twitter">
+          <b class="icon twitter">
+          </b>
+          <span class="hidden">
+           Twitter
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="https://www.youtube.com/channel/UCwNM5NKJgVBGaaF-dHZq0wQ" target="_blank" title="Youtube">
+          <b class="icon youtube">
+          </b>
+          <span class="hidden">
+           Youtube
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <hr class="footer-line"/>
+      <div class="footer-lower">
+       <div class="footnote">
+        <span title="Developed by ICZ a.s. for the Ministry of Industry and Trade">
+         © 2023 - 2025 Ministry of Industry and Trade
+        </span>
+        <!-- -->
+       </div>
+       <div class="footnote" title="verejne-udaje (en) / provoz. 3.5.8 / 19.2.14 / 2025-06-24T09:26:40.832Z">
+        <label>
+        </label>
+        <span>
+         verejne-udaje (en) / provoz. 3.5.8
+         <span class="viewless">
+          / 19.2.14 / 2025-06-24T09:26:40.832Z
+         </span>
+        </span>
+       </div>
+      </div>
+      <div class="footer-button">
+       <button class="outline icon-only" type="button">
+        <b class="icon up">
+        </b>
+       </button>
+      </div>
+     </div>
+    </div>
+    <div class="footer-secondary">
+     <div class="footer-content">
+      <a href="https://mpo.gov.cz/en/" target="_blank" title="Official website of the Ministry of Industry and Trade">
+       <img class="footer-logo mpo-logo" height="0" src="https://rzp.gov.cz/verejne-udaje/en/assets/images/mpo-logo.svg"/>
+      </a>
+      <a href="https://european-union.europa.eu/index_en" target="_blank" title="Official website of the European Union">
+       <img class="footer-logo eu-logo" height="0" src="https://rzp.gov.cz/verejne-udaje/en/assets/images/eu-logo.svg"/>
+      </a>
+     </div>
+    </div>
+    <iframe hidden="" name="none">
+    </iframe>
+   </div>
+  </footer>
+ </body>
+</html>
