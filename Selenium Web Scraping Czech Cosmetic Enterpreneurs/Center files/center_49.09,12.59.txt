@@ -360,11 +360,11 @@
                 <div class="leaflet-pane leaflet-tile-pane">
                  <div class="leaflet-layer" style="z-index: 1; opacity: 1;">
                   <div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 18; transform: translate3d(0px, 0px, 0px) scale(1);">
-                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://c.tile.openstreetmap.org/17/70119/44963.png" style="width: 256px; height: 256px; transform: translate3d(-225px, -8px, 0px); opacity: 0;"/>
-                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://b.tile.openstreetmap.org/17/70119/44962.png" style="width: 256px; height: 256px; transform: translate3d(-225px, -264px, 0px); opacity: 0;"/>
-                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://a.tile.openstreetmap.org/17/70118/44962.png" style="width: 256px; height: 256px; transform: translate3d(-481px, -264px, 0px); opacity: 0;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://c.tile.openstreetmap.org/17/70119/44963.png" style="width: 256px; height: 256px; transform: translate3d(-225px, -8px, 0px); opacity: 0.005;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://b.tile.openstreetmap.org/17/70119/44962.png" style="width: 256px; height: 256px; transform: translate3d(-225px, -264px, 0px); opacity: 0.005;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://a.tile.openstreetmap.org/17/70118/44962.png" style="width: 256px; height: 256px; transform: translate3d(-481px, -264px, 0px); opacity: 0.01;"/>
                    <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://c.tile.openstreetmap.org/17/70120/44962.png" style="width: 256px; height: 256px; transform: translate3d(31px, -264px, 0px); opacity: 1;"/>
-                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://b.tile.openstreetmap.org/17/70118/44963.png" style="width: 256px; height: 256px; transform: translate3d(-481px, -8px, 0px); opacity: 0;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://b.tile.openstreetmap.org/17/70118/44963.png" style="width: 256px; height: 256px; transform: translate3d(-481px, -8px, 0px); opacity: 0.005;"/>
                    <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://a.tile.openstreetmap.org/17/70120/44963.png" style="width: 256px; height: 256px; transform: translate3d(31px, -8px, 0px); opacity: 1;"/>
                   </div>
                  </div>

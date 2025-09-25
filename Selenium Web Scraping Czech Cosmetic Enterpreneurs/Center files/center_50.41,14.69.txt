@@ -491,7 +491,7 @@
           <a class="tool" tabindex="0" title="Refreshing corresponding content (F5)">
            Corresponding subjects
            <output xtitle="">
-            (2)
+            (3)
            </output>
            <!-- -->
            <!-- -->
@@ -504,7 +504,7 @@
         <div class="plain cards">
          <div class="card sheet">
           <component ng="udaje-subjektu">
-           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=50.41,14.69;distance=5/subjekt;ssarzp=Afbed70cdde43c3711f87002a9823a683f0181dae0a46cfbf39c91162fdfbda6f1a59" title="Detailed information without history">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=50.41,14.69;distance=5/subjekt;ssarzp=A267f9045a84f9df728225814fd6e031de3c77cc076aa061060fa3adf3d80ce481a68" title="Detailed information without history">
             <h5>
              Marcela Formandlová
              <!-- -->
@@ -581,7 +581,7 @@
           </component>
           <dl class="tools">
            <dd>
-            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=50.41,14.69;distance=5/subjekt;ssarzp=Afbed70cdde43c3711f87002a9823a683f0181dae0a46cfbf39c91162fdfbda6f1a59" tabindex="0" title="Detailed information without history">
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=50.41,14.69;distance=5/subjekt;ssarzp=A267f9045a84f9df728225814fd6e031de3c77cc076aa061060fa3adf3d80ce481a68" tabindex="0" title="Detailed information without history">
              Information without history
             </a>
            </dd>
@@ -601,7 +601,7 @@
          <!-- -->
          <div class="card sheet">
           <component ng="udaje-subjektu">
-           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=50.41,14.69;distance=5/subjekt;ssarzp=Aa93b7ff84411fe4712835f48ad1fc198161fa93f689d92016316b7e356b0d6d01a59" title="Detailed information without history">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=50.41,14.69;distance=5/subjekt;ssarzp=A6d9b5d333fed736bf2d592ae1b0abf51bea22d8d393c2e346fcc96eca1fbb0a61a68" title="Detailed information without history">
             <h5>
              Nikola Kinzlová
              <!-- -->
@@ -678,7 +678,7 @@
           </component>
           <dl class="tools">
            <dd>
-            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=50.41,14.69;distance=5/subjekt;ssarzp=Aa93b7ff84411fe4712835f48ad1fc198161fa93f689d92016316b7e356b0d6d01a59" tabindex="0" title="Detailed information without history">
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=50.41,14.69;distance=5/subjekt;ssarzp=A6d9b5d333fed736bf2d592ae1b0abf51bea22d8d393c2e346fcc96eca1fbb0a61a68" tabindex="0" title="Detailed information without history">
              Information without history
             </a>
            </dd>
@@ -687,6 +687,111 @@
            <!-- -->
            <dd>
             <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=09134697" title="Finding an entrepreneur in the public register">
+             Public Register
+            </a>
+           </dd>
+           <!-- -->
+          </dl>
+         </div>
+         <!-- -->
+         <!-- -->
+         <!-- -->
+         <div class="card sheet">
+          <component ng="udaje-subjektu">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=50.41,14.69;distance=5/subjekt;ssarzp=Abbd70b50488c449b67d72e3eab30b5057e75df877cd94d8171a1c2aa774f24971a68" title="Detailed information without history">
+            <h5>
+             Štěpánka Machová
+             <!-- -->
+            </h5>
+            <!-- -->
+           </a>
+           <!-- -->
+           <!-- -->
+           <dl class="compact tree">
+            <div>
+             <dd>
+              Natural person
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <div title="Corresponding entity address">
+             <div>
+              <dt>
+               Business premises
+              </dt>
+              <dd>
+               Hlovecká 363, 277 35, Mšeno
+               <span title="Distance from the location">
+                (4.7 km)
+               </span>
+               <!-- -->
+              </dd>
+              <!-- -->
+             </div>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              Registered office
+             </dt>
+             <dd>
+              náměstí Míru 14, 277 35, Mšeno
+             </dd>
+            </div>
+            <!-- -->
+            <div>
+             <dt>
+              Role
+             </dt>
+             <dd>
+              entrepreneur
+             </dd>
+             <!-- -->
+             <!-- -->
+             <!-- -->
+            </div>
+            <!-- -->
+            <!-- -->
+            <div>
+             <dt>
+              RN
+             </dt>
+             <dd>
+              75184001
+             </dd>
+            </div>
+            <!-- -->
+            <!-- -->
+            <!-- -->
+           </dl>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+          </component>
+          <dl class="tools">
+           <dd>
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=50.41,14.69;distance=5/subjekt;ssarzp=Abbd70b50488c449b67d72e3eab30b5057e75df877cd94d8171a1c2aa774f24971a68" tabindex="0" title="Detailed information without history">
+             Information without history
+            </a>
+           </dd>
+           <!-- -->
+           <!-- -->
+           <!-- -->
+           <dd>
+            <a class="external" href="https://or.justice.cz/ias/ui/rejstrik-dotaz?dotaz=75184001" title="Finding an entrepreneur in the public register">
              Public Register
             </a>
            </dd>

@@ -361,9 +361,9 @@
                  <div class="leaflet-layer" style="z-index: 1; opacity: 1;">
                   <div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 18; transform: translate3d(0px, 0px, 0px) scale(1);">
                    <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://c.tile.openstreetmap.org/17/72304/44896.png" style="width: 256px; height: 256px; transform: translate3d(-106px, -60px, 0px); opacity: 1;"/>
-                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://b.tile.openstreetmap.org/17/72304/44895.png" style="width: 256px; height: 256px; transform: translate3d(-106px, -316px, 0px); opacity: 0;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://b.tile.openstreetmap.org/17/72304/44895.png" style="width: 256px; height: 256px; transform: translate3d(-106px, -316px, 0px); opacity: 0.005;"/>
                    <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://a.tile.openstreetmap.org/17/72303/44895.png" style="width: 256px; height: 256px; transform: translate3d(-362px, -316px, 0px); opacity: 0;"/>
-                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://c.tile.openstreetmap.org/17/72305/44895.png" style="width: 256px; height: 256px; transform: translate3d(150px, -316px, 0px); opacity: 0;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://c.tile.openstreetmap.org/17/72305/44895.png" style="width: 256px; height: 256px; transform: translate3d(150px, -316px, 0px); opacity: 1;"/>
                    <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://b.tile.openstreetmap.org/17/72303/44896.png" style="width: 256px; height: 256px; transform: translate3d(-362px, -60px, 0px); opacity: 1;"/>
                    <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://a.tile.openstreetmap.org/17/72305/44896.png" style="width: 256px; height: 256px; transform: translate3d(150px, -60px, 0px); opacity: 1;"/>
                   </div>

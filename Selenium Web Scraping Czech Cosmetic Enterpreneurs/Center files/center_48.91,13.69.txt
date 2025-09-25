@@ -355,7 +355,7 @@
            <div class="">
             <component ng="leaflet-map">
              <div class="leaflet-map-wrapper">
-              <div class="leaflet-map-container leaflet-container leaflet-touch leaflet-retina leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" style="position: relative;" tabindex="0">
+              <div class="leaflet-map-container leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" style="position: relative;" tabindex="0">
                <div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(239px, 179px, 0px);">
                 <div class="leaflet-pane leaflet-tile-pane">
                  <div class="leaflet-layer" style="z-index: 1; opacity: 1;">
@@ -375,7 +375,7 @@
                  <img alt="" class="leaflet-marker-shadow leaflet-zoom-animated" src="https://rzp.gov.cz/verejne-udaje/en/assets/leaflet/marker-shadow.png" style="margin-left: -12px; margin-top: -41px; width: 41px; height: 41px; transform: translate3d(0px, 0px, 0px);"/>
                 </div>
                 <div class="leaflet-pane leaflet-marker-pane">
-                 <img alt="Marker" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" role="button" src="https://rzp.gov.cz/verejne-udaje/en/assets/leaflet/marker-icon-2x.png" style="margin-left: -12px; margin-top: -41px; width: 25px; height: 41px; transform: translate3d(0px, 0px, 0px); z-index: 0;" tabindex="0"/>
+                 <img alt="Marker" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" role="button" src="https://rzp.gov.cz/verejne-udaje/en/assets/leaflet/marker-icon.png" style="margin-left: -12px; margin-top: -41px; width: 25px; height: 41px; transform: translate3d(0px, 0px, 0px); z-index: 0;" tabindex="0"/>
                 </div>
                 <div class="leaflet-pane leaflet-tooltip-pane">
                 </div>
@@ -504,7 +504,7 @@
         <div class="plain cards">
          <div class="card sheet">
           <component ng="udaje-subjektu">
-           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=A5669dbcfa3f43f74e10e65c56dc7b9f6b20b83ef7b10c54b049895e11099a6fc1a59" title="Detailed information without history">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=A267c1de4d7a90e01fca7dbf082b38ada6e0901a662ea8fd1bd7e3d20e4e312b41a68" title="Detailed information without history">
             <h5>
              Kristýna Madron
              <!-- -->
@@ -581,7 +581,7 @@
           </component>
           <dl class="tools">
            <dd>
-            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=A5669dbcfa3f43f74e10e65c56dc7b9f6b20b83ef7b10c54b049895e11099a6fc1a59" tabindex="0" title="Detailed information without history">
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=A267c1de4d7a90e01fca7dbf082b38ada6e0901a662ea8fd1bd7e3d20e4e312b41a68" tabindex="0" title="Detailed information without history">
              Information without history
             </a>
            </dd>
@@ -601,7 +601,7 @@
          <!-- -->
          <div class="card sheet">
           <component ng="udaje-subjektu">
-           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=Ae030b7d50a248704c6848d497963851a8c97ff34ebd0c51ee0a842f0dd9de9c21a59" title="Detailed information without history">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=A447849926deecc2c1de190df0521a95a567c4233a950136259ba9b777a53a3771a68" title="Detailed information without history">
             <h5>
              Thi Van Anh Bui
              <!-- -->
@@ -678,7 +678,7 @@
           </component>
           <dl class="tools">
            <dd>
-            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=Ae030b7d50a248704c6848d497963851a8c97ff34ebd0c51ee0a842f0dd9de9c21a59" tabindex="0" title="Detailed information without history">
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=A447849926deecc2c1de190df0521a95a567c4233a950136259ba9b777a53a3771a68" tabindex="0" title="Detailed information without history">
              Information without history
             </a>
            </dd>
@@ -698,7 +698,7 @@
          <!-- -->
          <div class="card sheet">
           <component ng="udaje-subjektu">
-           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=Aefbd0ac310d6d767442ec4f3d10165feeb4a9e16ba92ce6703b69c063768f6ec1a59" title="Detailed information without history">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=A3b29b2765d3deb4b704b13c6037a56371267f5f8ef9fc89873700e07bd45aee61a68" title="Detailed information without history">
             <h5>
              Manh Linh Ha
              <!-- -->
@@ -775,7 +775,7 @@
           </component>
           <dl class="tools">
            <dd>
-            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=Aefbd0ac310d6d767442ec4f3d10165feeb4a9e16ba92ce6703b69c063768f6ec1a59" tabindex="0" title="Detailed information without history">
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=A3b29b2765d3deb4b704b13c6037a56371267f5f8ef9fc89873700e07bd45aee61a68" tabindex="0" title="Detailed information without history">
              Information without history
             </a>
            </dd>
@@ -795,7 +795,7 @@
          <!-- -->
          <div class="card sheet">
           <component ng="udaje-subjektu">
-           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=Ade7104dea4e26935401a8021a149186742a494ae094d133affe1fd53d878cd781a59" title="Detailed information without history">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=A99cf345bccc11e7e5f360653f0553bd4e92087cc1d89e6da7ceb3221a8307e1a1a68" title="Detailed information without history">
             <h5>
              Thi Chau Nguyen
              <!-- -->
@@ -880,7 +880,7 @@
           </component>
           <dl class="tools">
            <dd>
-            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=Ade7104dea4e26935401a8021a149186742a494ae094d133affe1fd53d878cd781a59" tabindex="0" title="Detailed information without history">
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=A99cf345bccc11e7e5f360653f0553bd4e92087cc1d89e6da7ceb3221a8307e1a1a68" tabindex="0" title="Detailed information without history">
              Information without history
             </a>
            </dd>
@@ -900,7 +900,7 @@
          <!-- -->
          <div class="card sheet">
           <component ng="udaje-subjektu">
-           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=A70c3655d91d66ef890effce9f3df863ee89611a8e6377046a4c1b8d008ba810b1a59" title="Detailed information without history">
+           <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=A312791f5da5e65135857afca09d5aa828edd60b4636786263ffb1d92116edd891a68" title="Detailed information without history">
             <h5>
              Thanh Huong Tran
              <!-- -->
@@ -985,7 +985,7 @@
           </component>
           <dl class="tools">
            <dd>
-            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=A70c3655d91d66ef890effce9f3df863ee89611a8e6377046a4c1b8d008ba810b1a59" tabindex="0" title="Detailed information without history">
+            <a href="/verejne-udaje/en/udaje/vyber-zivnosti;roleSubjektu=P;predmet=R11404;kodPredmetu=R11404;center=48.91,13.69;distance=5/subjekt;ssarzp=A312791f5da5e65135857afca09d5aa828edd60b4636786263ffb1d92116edd891a68" tabindex="0" title="Detailed information without history">
              Information without history
             </a>
            </dd>

@@ -360,10 +360,10 @@
                 <div class="leaflet-pane leaflet-tile-pane">
                  <div class="leaflet-layer" style="z-index: 1; opacity: 1;">
                   <div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 18; transform: translate3d(0px, 0px, 0px) scale(1);">
-                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://c.tile.openstreetmap.org/17/71649/44321.png" style="width: 256px; height: 256px; transform: translate3d(-13px, -203px, 0px); opacity: 0.045;"/>
-                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://b.tile.openstreetmap.org/17/71648/44321.png" style="width: 256px; height: 256px; transform: translate3d(-269px, -203px, 0px); opacity: 0.04;"/>
-                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://c.tile.openstreetmap.org/17/71648/44322.png" style="width: 256px; height: 256px; transform: translate3d(-269px, 53px, 0px); opacity: 0.055;"/>
-                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://a.tile.openstreetmap.org/17/71649/44322.png" style="width: 256px; height: 256px; transform: translate3d(-13px, 53px, 0px); opacity: 0.05;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://c.tile.openstreetmap.org/17/71649/44321.png" style="width: 256px; height: 256px; transform: translate3d(-13px, -203px, 0px); opacity: 0.005;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://b.tile.openstreetmap.org/17/71648/44321.png" style="width: 256px; height: 256px; transform: translate3d(-269px, -203px, 0px); opacity: 1;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://c.tile.openstreetmap.org/17/71648/44322.png" style="width: 256px; height: 256px; transform: translate3d(-269px, 53px, 0px); opacity: 1;"/>
+                   <img alt="" class="leaflet-tile leaflet-tile-loaded" src="https://a.tile.openstreetmap.org/17/71649/44322.png" style="width: 256px; height: 256px; transform: translate3d(-13px, 53px, 0px); opacity: 1;"/>
                   </div>
                  </div>
                 </div>
