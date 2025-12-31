@@ -1,4 +1,4 @@
-# Demo-Projects-Portfolio
+# Demo Portfolio
 
 ## 1. Project Name One
 A short elevator pitch describing what the project does and why it matters.  
