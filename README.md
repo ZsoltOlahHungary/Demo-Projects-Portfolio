@@ -2,7 +2,7 @@
 
 ## 1. Project Name One
 A short elevator pitch describing what the project does and why it matters.  
-🔗 [Project folder](./path/to/project-one)
+🔗 [Project folder]([./path/to/project-one](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/HTML%20Web%20scraping))
 
 ---
 
