@@ -2,7 +2,7 @@
 
 ## 1. Bike Share Analysis
 
-A short elevator pitch describing what the project does and why it matters.
+This project examines how casual riders and annual members use our bike‑share service differently by analyzing a full year of ride data. The findings reveal clear patterns in when and how each group rides, helping us understand their needs and habits. These insights highlight strong opportunities to convert casual riders into annual members through targeted offers. With this evidence, we can build a focused marketing strategy that increases membership and supports long‑term growth.
 
 🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/Bike%20Share%20Analysis)
 
