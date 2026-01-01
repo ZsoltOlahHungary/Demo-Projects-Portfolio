@@ -1,5 +1,4 @@
 # Demo Portfolio - Zsolt Oláh
-
 ---
 
 ## 1. Bike Share Analysis
