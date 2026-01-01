@@ -38,3 +38,19 @@ This project delivers a focused, end‑to‑end analysis of Mint Classics’ inv
 
 🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/Storage%20Facility%20Management%20with%20MySQL)
 
+---
+
+## 6. Flightradar24 API Webscraping
+
+This project is a technology-driven analysis of real-world flight traffic over Budapest, built on historical data collected from Flightradar24. It demonstrates a complete geospatial data pipeline, covering data ingestion, airspace boundary identification, spatial filtering, and interactive visualization. Through time-based analytics, the project uncovers clear hourly and weekly traffic patterns, highlighting how aircraft movement evolves across different periods. Overall, it shows how raw aviation tracking data can be transformed into meaningful, decision-ready airspace insights, serving as a scalable foundation for applications in traffic monitoring, urban planning, and aviation analytics.
+
+🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/Flightradar24%20API%20-%20Budapest%20Airspace)
+
+---
+
+## 7. Streaming Service Churn Prediction
+
+This project presents a complete, real-world churn prediction solution built with machine learning. It walks through the entire data science pipeline, from exploratory analysis and feature engineering to model training, validation, and interpretation. By identifying the key factors that drive customer churn and accurately predicting at-risk customers, the project demonstrates how predictive analytics can support proactive retention strategies. Ultimately, it bridges the gap between technical modeling and business value, showing how data-driven insights can directly improve customer lifetime value and reduce revenue loss.
+
+🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/Streaming%20Service%20Churn%20Prediction)
+
