@@ -21,6 +21,7 @@ This project shows how automated web scraping can turn unstructured website cont
 This project delivers a full end‑to‑end statistical analysis showing how weekly self‑study hours relate to academic performance. Using clean, university‑collected data, we confirmed a significant positive relationship and demonstrated the use of advanced statistical tools—including correlation analysis, t‑tests, and proportion tests. The result is a clear, classroom‑ready case study that connects real student behavior with rigorous statistical reasoning.
 
 🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/Hypothesis%20Testing)
+
 ---
 
 ## 4. Project Name Four
