@@ -18,7 +18,7 @@ This project shows how automated web scraping can turn unstructured website cont
 
 **Skills:** Python Programming | Web Scraping | HTML Parsing | BeautifulSoup | Requests Library | Data Extraction | Data Cleaning | Pandas | Text Data Processing | Jupyter Notebook
 
-🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/HTML%20Web%20scraping)
+🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/03%20Job%20Advertisement%20Analysis)
 
 ---
 
@@ -28,7 +28,7 @@ This project delivers a full end‑to‑end statistical analysis showing how wee
 
 **Skills:** Python Programming | Statistical Analysis | Hypothesis Testing | Inferential Statistics | t-Test | Chi-Square Test | p-Value Interpretation | Confidence Intervals | Pandas | SciPy
 
-🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/Hypothesis%20Testing)
+🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/04%20Hypothesis%20Testing)
 
 ---
 
@@ -38,7 +38,7 @@ This project analyzes real sales data from an online retail store to uncover the
 
 **Skills:** Python Programming | Data Cleaning | Exploratory Data Analysis (EDA) | Customer Segmentation | RFM Analysis | Cohort Analysis | Time Series Analysis | Business Metrics Analysis | Data Visualization | Pandas
 
-🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/Online%20retail%20transactions)
+🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/05%20Online%20retail%20transactions)
 
 ---
 
@@ -48,7 +48,7 @@ This project delivers a focused, end‑to‑end analysis of Mint Classics’ inv
 
 **Skills:** SQL (MySQL) | Relational Databases | Complex Joins | Subqueries | Data Aggregation (GROUP BY) | Views Creation | Inventory Analysis | Sales Analysis | Microsoft Excel | Business Decision Support
 
-🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/Storage%20Facility%20Management%20with%20MySQL)
+🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/06%20Storage%20Facility%20Management)
 
 ---
 
@@ -58,7 +58,7 @@ This project is a technology-driven analysis of real-world flight traffic over B
 
 **Skills:** Python Programming | API Data Collection | JSON Data Processing | Data Cleaning | Exploratory Data Analysis (EDA) | Geospatial Data Analysis | Time Series Analysis | Data Visualization | Pandas | Matplotlib
 
-🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/Flightradar24%20API%20-%20Budapest%20Airspace)
+🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/07%20Flightradar24%20API%20Webscraping)
 
 ---
 
@@ -68,5 +68,5 @@ This project presents a complete, real-world churn prediction solution built wit
 
 **Skills:** Python Programming | Data Preprocessing | Exploratory Data Analysis (EDA) | Feature Engineering | Churn Analysis | Predictive Modeling | Classification Models | Logistic Regression | Model Evaluation Metrics | Scikit-learn
 
-🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/Streaming%20Service%20Churn%20Prediction)
+🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/08%20Streaming%20Service%20Churn%20Prediction)
 
