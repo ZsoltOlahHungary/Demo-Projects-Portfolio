@@ -7,7 +7,8 @@ This project examines how casual riders and annual members use a bike‑share se
 
 **Skills**: R Programming | Data Cleaning | Data Wrangling | Exploratory Data Analysis (EDA) | Data Visualization (ggplot2) | Tidyverse | Time & Date Analysis | Descriptive Statistics | Data Aggregation | Reproducible Reporting (R Markdown)
 
-🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/Bike%20Share%20Analysis)
+🔗 [Go to the project folder for further content](https://github.com/ZsoltOlahHungary/Demo-Projects-Portfolio/tree/main/Demo%20Portfolio/02%20Bike%20Share%20Analysis)
+
 
 ---
 
